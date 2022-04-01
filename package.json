@@ -1,0 +1,35 @@
+{
+  "name": "hospitales-mx",
+  "version": "1.0.0",
+  "description": "User can search for hospitals located in Mexico.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "format": "prettier --write \"src/**/*.{js, jsx}\"",
+    "lint": "eslint \"src/**/*.{js, jsx}\" --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianaES/hospitales-mx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianaES/hospitales-mx/issues"
+  },
+  "homepage": "https://github.com/MarianaES/hospitales-mx#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "eslint-config-prettier": "^8.5.0",
+    "parcel": "^2.4.1",
+    "prettier": "^2.6.1"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "browsersList": [
+    "last 2 Chrome versions"
+  ]
+}
