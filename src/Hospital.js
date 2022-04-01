@@ -1,11 +1,11 @@
-import React from "react";
-
-const Hospital = (props) => {
-  return React.createElement("div", {}, [
-    React.createElement("h1", {}, props.name),
-    React.createElement("h2", {}, props.state),
-    React.createElement("h2", {}, props.municipality),
-  ]);
-};
+function Hospital(props) {
+  return (
+    <div>
+      <h1>{props.name}</h1>
+      <h2>{props.state}</h2>
+      <h2>{props.municipality}</h2>
+    </div>
+  );
+}
 
 export default Hospital;
