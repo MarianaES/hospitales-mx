@@ -2,7 +2,7 @@ import { render } from "react-dom";
 import { CssBaseline, Grid } from "@mui/material";
 import { ThemeProvider } from "@mui/material/styles";
 
-import Hospital from "./Hospital";
+import Hospital from "./components/Hospital";
 import NavBar from "./components/NavBar";
 import SearchParams from "./components/SearchParams";
 import theme from "./GlobalStyles";
