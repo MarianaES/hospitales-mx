@@ -1,9 +1,9 @@
-import AppBar from "@mui/material/AppBar";
-import Box from "@mui/material/Box";
-import Toolbar from "@mui/material/Toolbar";
-import Typography from "@mui/material/Typography";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faStaffAesculapius } from "@fortawesome/free-solid-svg-icons";
+import AppBar from '@mui/material/AppBar'
+import Box from '@mui/material/Box'
+import Toolbar from '@mui/material/Toolbar'
+import Typography from '@mui/material/Typography'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faStaffAesculapius } from '@fortawesome/free-solid-svg-icons'
 
 export default function NavBar() {
   return (
@@ -12,14 +12,14 @@ export default function NavBar() {
         <Toolbar>
           <FontAwesomeIcon icon={faStaffAesculapius} size="3x" />
           <Typography
-            variant="h3"
+            variant="h4"
             noWrap
-            sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
+            sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
           >
-            ASCLEPIUS
+            Hospitales en México
           </Typography>
         </Toolbar>
       </AppBar>
     </Box>
-  );
+  )
 }
