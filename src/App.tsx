@@ -4,7 +4,7 @@ import { ThemeProvider } from '@mui/material/styles'
 
 import NavBar from './components/NavBar'
 import SearchParams from './components/SearchParams'
-import theme from './GlobalStyles'
+import theme from './theme'
 
 function App() {
   return (

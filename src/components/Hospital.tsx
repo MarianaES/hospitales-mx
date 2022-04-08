@@ -1,5 +1,11 @@
-import { Box, Card, CardContent, Divider, Typography } from '@mui/material'
+import { Box, Card, CardContent, Typography } from '@mui/material'
 import { useTheme } from '@mui/material/styles'
+
+import { Hospital } from 'interface/Hospital'
+
+interface Props {
+  hospital: Hospital
+}
 
 const bull = (
   <Box
@@ -10,7 +16,7 @@ const bull = (
   </Box>
 )
 
-function Hospital(props) {
+function Hospital(props: Props) {
   const { hospital } = props
   const theme = useTheme()
 
@@ -21,12 +27,12 @@ function Hospital(props) {
         style={{
           borderColor: theme.palette.primary.light,
           borderWidth: '1px',
-          color: theme.palette.text.gray,
+          color: theme.palette.text.primary,
         }}
       >
         <CardContent>
           <Typography
-            sx={{ fontSize: 14, color: theme.palette.text.Typography }}
+            sx={{ fontSize: 14, color: theme.palette.text.primary }}
             gutterBottom
           >
             {hospital?.['address.state'] ?? ''} {bull}{' '}

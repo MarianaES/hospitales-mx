@@ -19,10 +19,7 @@ const Colors = {
 
 const theme = createTheme({
   palette: {
-    type: 'light',
-    // background: {
-    //   default: Colors.primaryDark,
-    // },
+    mode: 'light',
     primary: {
       main: Colors.primary,
       light: Colors.primaryLight,
@@ -37,9 +34,9 @@ const theme = createTheme({
       main: Colors.error,
     },
     text: {
-      white: Colors.white,
-      black: Colors.black,
-      gray: Colors.gray,
+      primary: Colors.primaryLight,
+      secondary: Colors.secondaryDark,
+      disabled: Colors.gray,
     },
   },
   typography: {

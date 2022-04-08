@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faStaffAesculapius } from '@fortawesome/free-solid-svg-icons'
 
-export default function NavBar() {
+function NavBar() {
   return (
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
@@ -23,3 +23,5 @@ export default function NavBar() {
     </Box>
   )
 }
+
+export default NavBar
