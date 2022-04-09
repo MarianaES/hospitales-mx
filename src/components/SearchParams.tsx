@@ -7,13 +7,12 @@ import {
   Card,
   CardActions,
   CardContent,
-  FormControl,
-  InputLabel,
   MenuItem,
-  Select,
+  TextField,
   Typography,
 } from '@mui/material'
 import ManageSearchIcon from '@mui/icons-material/ManageSearch'
+import * as yup from 'yup'
 
 import CODES from '../lib/constants/CODES.json'
 import MUNICIPALITIES from '../lib/constants/MUNICIPALITIES.json'
@@ -22,6 +21,28 @@ import UNITS from '../lib/constants/UNITS.json'
 import Hospitals from '../database/short.json'
 
 import Hospital from './Hospital'
+
+interface SearchParams {
+  address: {
+    state: string
+    municipality: string
+  }
+  institution: {
+    code: string
+    type?: string
+  }
+}
+
+const validationSchema: yup.SchemaOf<SearchParams> = yup.object().shape({
+  address: yup.object({
+    state: yup.string().required('Required'),
+    municipality: yup.string().required('Required'),
+  }),
+  institution: yup.object({
+    code: yup.string().required('Required'),
+    type: yup.string(),
+  }),
+})
 
 function SearchParams() {
   const [hospitals] = useState(Hospitals)
@@ -38,6 +59,7 @@ function SearchParams() {
         type: '',
       },
     },
+    validationSchema,
     onSubmit(values) {
       console.log({ values })
     },
@@ -73,84 +95,82 @@ function SearchParams() {
             }}
           >
             <CardContent>
-              <FormControl fullWidth>
-                <InputLabel id="address-state-label">Estado</InputLabel>
-                <Select
-                  {...formik.getFieldProps('address.state')}
-                  labelId="address-state-label"
-                  id="address-state"
-                  label="Estado"
-                  error={
-                    Boolean(formik.touched?.['address.state']) &&
-                    Boolean(formik.errors?.['address.state'])
-                  }
-                >
-                  {STATES.map((state, index) => (
-                    <MenuItem value={state.value} key={index}>
-                      {state.value}
-                    </MenuItem>
-                  ))}
-                </Select>
-              </FormControl>
-              <FormControl margin="normal" fullWidth>
-                <InputLabel id="address-municipality-label">
-                  Municipio
-                </InputLabel>
-                <Select
-                  {...formik.getFieldProps('address.municipality')}
-                  labelId="address-municipality-label"
-                  id="address-municipality"
-                  label="Municipio"
-                  error={
-                    Boolean(formik.touched?.['address.municipality']) &&
-                    Boolean(formik.errors?.['address.municipality'])
-                  }
-                >
-                  {MUNICIPALITIES.map((municipality, index) => (
-                    <MenuItem value={municipality.value} key={index}>
-                      {municipality.value}
-                    </MenuItem>
-                  ))}
-                </Select>
-              </FormControl>
-              <FormControl margin="normal" fullWidth>
-                <InputLabel id="institution-code-label">Institución</InputLabel>
-                <Select
-                  {...formik.getFieldProps('institution.code')}
-                  labelId="institution-code-label"
-                  id="institution-code"
-                  label="Institución"
-                  error={
-                    Boolean(formik.touched?.['institution.code']) &&
-                    Boolean(formik.errors?.['institution.code'])
-                  }
-                >
-                  {CODES.map((code, index) => (
-                    <MenuItem value={code.short} key={index}>
-                      {code.short}
-                    </MenuItem>
-                  ))}
-                </Select>
-              </FormControl>
-              <FormControl margin="normal" fullWidth>
-                <InputLabel id="institution-type-label">Tipo</InputLabel>
-                <Select
-                  {...formik.getFieldProps('institution.type')}
-                  labelId="institution-type-label"
-                  id="institution-type"
-                  label="Tipo"
-                  error={
-                    Boolean(formik.touched?.['institution.type']) &&
-                    Boolean(formik.errors?.['institution.type'])
-                  }
-                >
-                  {UNITS.map((unit, index) => (
-                    <MenuItem value={unit.value} key={index}>
-                      {unit.value}
-                    </MenuItem>
-                  ))}
-                </Select>
-              </FormControl>
+              <TextField
+                id="address-state"
+                label="Estado"
+                {...formik.getFieldProps('address.state')}
+                error={
+                  formik.touched?.address?.state &&
+                  Boolean(formik.errors?.address?.state)
+                }
+                helperText={formik.errors?.address?.state}
+                margin="normal"
+                fullWidth
+                select
+              >
+                {STATES.map((state, index) => (
+                  <MenuItem value={state.value} key={index}>
+                    {state.value}
+                  </MenuItem>
+                ))}
+              </TextField>
+              <TextField
+                id="address-municipality"
+                label="Municipio"
+                {...formik.getFieldProps('address.municipality')}
+                error={
+                  formik.touched?.address?.municipality &&
+                  Boolean(formik.errors?.address?.municipality)
+                }
+                helperText={formik.errors?.address?.municipality}
+                margin="normal"
+                fullWidth
+                select
+              >
+                {MUNICIPALITIES.map((municipality, index) => (
+                  <MenuItem value={municipality.value} key={index}>
+                    {municipality.value}
+                  </MenuItem>
+                ))}
+              </TextField>
+              <TextField
+                id="institution-code"
+                label="Institución"
+                {...formik.getFieldProps('institution.code')}
+                error={
+                  formik.touched?.institution?.code &&
+                  Boolean(formik.errors?.institution?.code)
+                }
+                helperText={formik.errors?.institution?.code}
+                margin="normal"
+                fullWidth
+                select
+              >
+                {CODES.map((code, index) => (
+                  <MenuItem value={code.short} key={index}>
+                    {code.short}
+                  </MenuItem>
+                ))}
+              </TextField>
+              <TextField
+                id="institution-type"
+                label="Tipo"
+                {...formik.getFieldProps('institution.type')}
+                error={
+                  formik.touched?.institution?.type &&
+                  Boolean(formik.errors?.institution?.type)
+                }
+                helperText={formik.errors?.institution?.type}
+                margin="normal"
+                fullWidth
+                select
+              >
+                {UNITS.map((unit, index) => (
+                  <MenuItem value={unit.value} key={index}>
+                    {unit.value}
+                  </MenuItem>
+                ))}
+              </TextField>
             </CardContent>
             <CardActions>
               <Button
