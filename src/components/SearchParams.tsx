@@ -35,11 +35,11 @@ interface SearchParams {
 
 const validationSchema: yup.SchemaOf<SearchParams> = yup.object().shape({
   address: yup.object({
-    state: yup.string().required('Required'),
-    municipality: yup.string().required('Required'),
+    state: yup.string().required('Requerido'),
+    municipality: yup.string().required('Requerido'),
   }),
   institution: yup.object({
-    code: yup.string().required('Required'),
+    code: yup.string().required('Requerido'),
     type: yup.string(),
   }),
 })
@@ -104,7 +104,7 @@ function SearchParams() {
                   Boolean(formik.errors?.address?.state)
                 }
                 helperText={formik.errors?.address?.state}
-                margin="normal"
+                margin="dense"
                 fullWidth
                 select
               >
@@ -123,7 +123,7 @@ function SearchParams() {
                   Boolean(formik.errors?.address?.municipality)
                 }
                 helperText={formik.errors?.address?.municipality}
-                margin="normal"
+                margin="dense"
                 fullWidth
                 select
               >
@@ -142,7 +142,7 @@ function SearchParams() {
                   Boolean(formik.errors?.institution?.code)
                 }
                 helperText={formik.errors?.institution?.code}
-                margin="normal"
+                margin="dense"
                 fullWidth
                 select
               >
@@ -161,7 +161,7 @@ function SearchParams() {
                   Boolean(formik.errors?.institution?.type)
                 }
                 helperText={formik.errors?.institution?.type}
-                margin="normal"
+                margin="dense"
                 fullWidth
                 select
               >
