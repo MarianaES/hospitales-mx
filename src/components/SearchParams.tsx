@@ -15,10 +15,10 @@ import ManageSearchIcon from '@mui/icons-material/ManageSearch'
 import * as yup from 'yup'
 
 import CODES from '../lib/constants/CODES.json'
-import MUNICIPALITIES from '../lib/constants/MUNICIPALITIES.json'
 import STATES from '../lib/constants/STATES.json'
 import UNITS from '../lib/constants/UNITS.json'
 import Hospitals from '../database/short.json'
+import { STATES_MUNICIPALITIES } from '../lib/constants/statesGroups'
 
 import Hospital from './Hospital'
 
@@ -127,9 +127,13 @@ function SearchParams() {
                 fullWidth
                 select
               >
-                {MUNICIPALITIES.map((municipality, index) => (
-                  <MenuItem value={municipality.value} key={index}>
-                    {municipality.value}
+                {(
+                  STATES_MUNICIPALITIES[
+                    formik.values?.address?.state
+                  ] as string[]
+                )?.map((municipality: string, index: number) => (
+                  <MenuItem value={municipality} key={index}>
+                    {municipality}
                   </MenuItem>
                 ))}
               </TextField>
