@@ -14,11 +14,9 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "baseUrl": "server/src",
-    "noImplicitAny": false,
-    "sourceMap": true,
-    "inlineSources": false
+    "jsx": "react-jsx",
+    "types": ["node"]
   },
-  "include": ["server/src/**/*"],
+  "include": ["src/**/*", "routes/**/*"],
   "exclude": ["node_modules"]
 }

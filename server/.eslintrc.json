@@ -1,5 +1,4 @@
 {
-  "root": true,
   "parser": "@typescript-eslint/parser",
   "extends": [
     "eslint:recommended",
@@ -8,13 +7,15 @@
     "plugin:import/warnings",
     "plugin:import/typescript",
 
+    "plugin:node/recommended",
+    "plugin:promise/recommended",
+
     "plugin:@typescript-eslint/recommended",
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
 
     "prettier"
   ],
   "rules": {
-    "promise/catch-or-return": "error",
     "max-lines": ["warn", { "max": 500, "skipBlankLines": true }],
     "no-console": "warn",
     "no-magic-numbers": [
@@ -46,9 +47,14 @@
     "import/exports-last": "warn",
     "@typescript-eslint/no-unused-vars": "warn"
   },
-  "plugins": ["import", "@typescript-eslint"],
+  "plugins": ["import", "@typescript-eslint", "node", "promise"],
   "parserOptions": {
-    "project": "./tsconfig.json"
+    "ecmaVersion": "latest",
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "project": "tsconfig.json"
   },
   "env": {
     "es6": true,
@@ -56,6 +62,9 @@
     "node": true
   },
   "settings": {
+    "react": {
+      "version": "detect"
+    },
     "import/resolver": {
       "node": {
         "extensions": [".js", ".jsx", ".ts", ".tsx"],
