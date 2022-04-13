@@ -1,0 +1,6947 @@
+[
+  {
+    "value": "AGUASCALIENTES"
+  },
+  {
+    "value": "COSIO"
+  },
+  {
+    "value": "RINCON DE ROMOS"
+  },
+  {
+    "value": "TEPEZALA"
+  },
+  {
+    "value": "CALVILLO"
+  },
+  {
+    "value": "SAN FRANCISCO DE LOS ROMO"
+  },
+  {
+    "value": "ASIENTOS"
+  },
+  {
+    "value": "JESUS MARIA"
+  },
+  {
+    "value": "PABELLON DE ARTEAGA"
+  },
+  {
+    "value": "SAN JOSE DE GRACIA"
+  },
+  {
+    "value": "EL LLANO"
+  },
+  {
+    "value": "NO ESPECIFICADO"
+  },
+  {
+    "value": "MEXICALI"
+  },
+  {
+    "value": "TIJUANA"
+  },
+  {
+    "value": "PLAYAS DE ROSARITO"
+  },
+  {
+    "value": "ENSENADA"
+  },
+  {
+    "value": "SAN QUINTIN"
+  },
+  {
+    "value": "TECATE"
+  },
+  {
+    "value": "LA PAZ"
+  },
+  {
+    "value": "LOS CABOS"
+  },
+  {
+    "value": "LORETO"
+  },
+  {
+    "value": "MULEGE"
+  },
+  {
+    "value": "COMONDU"
+  },
+  {
+    "value": "CARMEN"
+  },
+  {
+    "value": "CAMPECHE"
+  },
+  {
+    "value": "ESCARCEGA"
+  },
+  {
+    "value": "CALKINI"
+  },
+  {
+    "value": "CHAMPOTON"
+  },
+  {
+    "value": "HECELCHAKAN"
+  },
+  {
+    "value": "HOPELCHEN"
+  },
+  {
+    "value": "TENABO"
+  },
+  {
+    "value": "CANDELARIA"
+  },
+  {
+    "value": "PALIZADA"
+  },
+  {
+    "value": "DZITBALCHE"
+  },
+  {
+    "value": "CALAKMUL"
+  },
+  {
+    "value": "SEYBAPLAYA"
+  },
+  {
+    "value": "JUAREZ"
+  },
+  {
+    "value": "CHIHUAHUA"
+  },
+  {
+    "value": "CUAUHTEMOC"
+  },
+  {
+    "value": "HIDALGO DEL PARRAL"
+  },
+  {
+    "value": "AHUMADA"
+  },
+  {
+    "value": "ALDAMA"
+  },
+  {
+    "value": "ALLENDE"
+  },
+  {
+    "value": "BACHINIVA"
+  },
+  {
+    "value": "BALLEZA"
+  },
+  {
+    "value": "BATOPILAS DE MANUEL GOMEZ MORIN"
+  },
+  {
+    "value": "BOCOYNA"
+  },
+  {
+    "value": "GUERRERO"
+  },
+  {
+    "value": "CARICHI"
+  },
+  {
+    "value": "CASAS GRANDES"
+  },
+  {
+    "value": "CORONADO"
+  },
+  {
+    "value": "COYAME DEL SOTOL"
+  },
+  {
+    "value": "CUSIHUIRIACHI"
+  },
+  {
+    "value": "CHINIPAS"
+  },
+  {
+    "value": "DR. BELISARIO DOMINGUEZ"
+  },
+  {
+    "value": "SANTA ISABEL"
+  },
+  {
+    "value": "GOMEZ FARIAS"
+  },
+  {
+    "value": "GRAN MORELOS"
+  },
+  {
+    "value": "GUACHOCHI"
+  },
+  {
+    "value": "GUADALUPE Y CALVO"
+  },
+  {
+    "value": "GUAZAPARES"
+  },
+  {
+    "value": "IGNACIO ZARAGOZA"
+  },
+  {
+    "value": "JANOS"
+  },
+  {
+    "value": "JIMENEZ"
+  },
+  {
+    "value": "LOPEZ"
+  },
+  {
+    "value": "MADERA"
+  },
+  {
+    "value": "MAGUARICHI"
+  },
+  {
+    "value": "MANUEL BENAVIDES"
+  },
+  {
+    "value": "MATAMOROS"
+  },
+  {
+    "value": "MORELOS"
+  },
+  {
+    "value": "MORIS"
+  },
+  {
+    "value": "NAMIQUIPA"
+  },
+  {
+    "value": "NONOAVA"
+  },
+  {
+    "value": "OCAMPO"
+  },
+  {
+    "value": "OJINAGA"
+  },
+  {
+    "value": "ROSARIO"
+  },
+  {
+    "value": "SAN FRANCISCO DE BORJA"
+  },
+  {
+    "value": "SATEVO"
+  },
+  {
+    "value": "TEMOSACHIC"
+  },
+  {
+    "value": "URIQUE"
+  },
+  {
+    "value": "URUACHI"
+  },
+  {
+    "value": "NUEVO CASAS GRANDES"
+  },
+  {
+    "value": "AQUILES SERDAN"
+  },
+  {
+    "value": "ASCENSION"
+  },
+  {
+    "value": "BUENAVENTURA"
+  },
+  {
+    "value": "CAMARGO"
+  },
+  {
+    "value": "DELICIAS"
+  },
+  {
+    "value": "GUADALUPE"
+  },
+  {
+    "value": "MEOQUI"
+  },
+  {
+    "value": "ROSALES"
+  },
+  {
+    "value": "SAN FRANCISCO DEL ORO"
+  },
+  {
+    "value": "SANTA BARBARA"
+  },
+  {
+    "value": "SAUCILLO"
+  },
+  {
+    "value": "MATACHI"
+  },
+  {
+    "value": "PRAXEDIS G. GUERRERO"
+  },
+  {
+    "value": "VALLE DE ZARAGOZA"
+  },
+  {
+    "value": "RIVA PALACIO"
+  },
+  {
+    "value": "LA CRUZ"
+  },
+  {
+    "value": "GALEANA"
+  },
+  {
+    "value": "HUEJOTITAN"
+  },
+  {
+    "value": "JULIMES"
+  },
+  {
+    "value": "SAN FRANCISCO DE CONCHOS"
+  },
+  {
+    "value": "EL TULE"
+  },
+  {
+    "value": "SALTILLO"
+  },
+  {
+    "value": "TORREON"
+  },
+  {
+    "value": "MONCLOVA"
+  },
+  {
+    "value": "PARRAS"
+  },
+  {
+    "value": "PIEDRAS NEGRAS"
+  },
+  {
+    "value": "ACUÑA"
+  },
+  {
+    "value": "ZARAGOZA"
+  },
+  {
+    "value": "ARTEAGA"
+  },
+  {
+    "value": "CANDELA"
+  },
+  {
+    "value": "CASTAÑOS"
+  },
+  {
+    "value": "CUATRO CIENEGAS"
+  },
+  {
+    "value": "ESCOBEDO"
+  },
+  {
+    "value": "FRANCISCO I. MADERO"
+  },
+  {
+    "value": "GENERAL CEPEDA"
+  },
+  {
+    "value": "MUZQUIZ"
+  },
+  {
+    "value": "RAMOS ARIZPE"
+  },
+  {
+    "value": "SAN BUENAVENTURA"
+  },
+  {
+    "value": "SAN PEDRO"
+  },
+  {
+    "value": "SIERRA MOJADA"
+  },
+  {
+    "value": "VIESCA"
+  },
+  {
+    "value": "VILLA UNION"
+  },
+  {
+    "value": "FRONTERA"
+  },
+  {
+    "value": "NADADORES"
+  },
+  {
+    "value": "NAVA"
+  },
+  {
+    "value": "PROGRESO"
+  },
+  {
+    "value": "SACRAMENTO"
+  },
+  {
+    "value": "SAN JUAN DE SABINAS"
+  },
+  {
+    "value": "SABINAS"
+  },
+  {
+    "value": "ABASOLO"
+  },
+  {
+    "value": "HIDALGO"
+  },
+  {
+    "value": "LAMADRID"
+  },
+  {
+    "value": "MANZANILLO"
+  },
+  {
+    "value": "VILLA DE ALVAREZ"
+  },
+  {
+    "value": "COLIMA"
+  },
+  {
+    "value": "TECOMAN"
+  },
+  {
+    "value": "COQUIMATLAN"
+  },
+  {
+    "value": "ARMERIA"
+  },
+  {
+    "value": "MINATITLAN"
+  },
+  {
+    "value": "COMALA"
+  },
+  {
+    "value": "IXTLAHUACAN"
+  },
+  {
+    "value": "TUXTLA GUTIERREZ"
+  },
+  {
+    "value": "TAPACHULA"
+  },
+  {
+    "value": "COMITAN DE DOMINGUEZ"
+  },
+  {
+    "value": "SAN CRISTOBAL DE LAS CASAS"
+  },
+  {
+    "value": "CHILON"
+  },
+  {
+    "value": "ACACOYAGUA"
+  },
+  {
+    "value": "ACALA"
+  },
+  {
+    "value": "EMILIANO ZAPATA"
+  },
+  {
+    "value": "ACAPETAHUA"
+  },
+  {
+    "value": "ALTAMIRANO"
+  },
+  {
+    "value": "AMATAN"
+  },
+  {
+    "value": "AMATENANGO DE LA FRONTERA"
+  },
+  {
+    "value": "AMATENANGO DEL VALLE"
+  },
+  {
+    "value": "ANGEL ALBINO CORZO"
+  },
+  {
+    "value": "ARRIAGA"
+  },
+  {
+    "value": "BEJUCAL DE OCAMPO"
+  },
+  {
+    "value": "BELLA VISTA"
+  },
+  {
+    "value": "BERRIOZABAL"
+  },
+  {
+    "value": "BOCHIL"
+  },
+  {
+    "value": "EL BOSQUE"
+  },
+  {
+    "value": "CACAHOATAN"
+  },
+  {
+    "value": "CATAZAJA"
+  },
+  {
+    "value": "CINTALAPA"
+  },
+  {
+    "value": "COAPILLA"
+  },
+  {
+    "value": "LA CONCORDIA"
+  },
+  {
+    "value": "COPAINALA"
+  },
+  {
+    "value": "CHALCHIHUITAN"
+  },
+  {
+    "value": "CHAMULA"
+  },
+  {
+    "value": "CHANAL"
+  },
+  {
+    "value": "CHAPULTENANGO"
+  },
+  {
+    "value": "CHENALHO"
+  },
+  {
+    "value": "CHIAPA DE CORZO"
+  },
+  {
+    "value": "CHIAPILLA"
+  },
+  {
+    "value": "CHICOASEN"
+  },
+  {
+    "value": "CHICOMUSELO"
+  },
+  {
+    "value": "ESCUINTLA"
+  },
+  {
+    "value": "FRONTERA COMALAPA"
+  },
+  {
+    "value": "FRONTERA HIDALGO"
+  },
+  {
+    "value": "LA GRANDEZA"
+  },
+  {
+    "value": "HUEHUETAN"
+  },
+  {
+    "value": "HUIXTAN"
+  },
+  {
+    "value": "HUITIUPAN"
+  },
+  {
+    "value": "HUIXTLA"
+  },
+  {
+    "value": "LA INDEPENDENCIA"
+  },
+  {
+    "value": "IXHUATAN"
+  },
+  {
+    "value": "IXTAPA"
+  },
+  {
+    "value": "IXTAPANGAJOYA"
+  },
+  {
+    "value": "JIQUIPILAS"
+  },
+  {
+    "value": "JITOTOL"
+  },
+  {
+    "value": "LARRAINZAR"
+  },
+  {
+    "value": "SANTIAGO EL PINAR"
+  },
+  {
+    "value": "LA LIBERTAD"
+  },
+  {
+    "value": "MAPASTEPEC"
+  },
+  {
+    "value": "LAS MARGARITAS"
+  },
+  {
+    "value": "MARAVILLA TENEJAPA"
+  },
+  {
+    "value": "MAZAPA DE MADERO"
+  },
+  {
+    "value": "MAZATAN"
+  },
+  {
+    "value": "METAPA"
+  },
+  {
+    "value": "MITONTIC"
+  },
+  {
+    "value": "MOTOZINTLA"
+  },
+  {
+    "value": "NICOLAS RUIZ"
+  },
+  {
+    "value": "OCOSINGO"
+  },
+  {
+    "value": "BENEMERITO DE LAS AMERICAS"
+  },
+  {
+    "value": "MARQUES DE COMILLAS"
+  },
+  {
+    "value": "OCOTEPEC"
+  },
+  {
+    "value": "OCOZOCOAUTLA DE ESPINOSA"
+  },
+  {
+    "value": "OSTUACAN"
+  },
+  {
+    "value": "OSUMACINTA"
+  },
+  {
+    "value": "OXCHUC"
+  },
+  {
+    "value": "PALENQUE"
+  },
+  {
+    "value": "PANTELHO"
+  },
+  {
+    "value": "PANTEPEC"
+  },
+  {
+    "value": "PICHUCALCO"
+  },
+  {
+    "value": "PIJIJIAPAN"
+  },
+  {
+    "value": "EL PORVENIR"
+  },
+  {
+    "value": "VILLA COMALTITLAN"
+  },
+  {
+    "value": "RINCON CHAMULA SAN PEDRO"
+  },
+  {
+    "value": "PUEBLO NUEVO SOLISTAHUACAN"
+  },
+  {
+    "value": "RAYON"
+  },
+  {
+    "value": "REFORMA"
+  },
+  {
+    "value": "SABANILLA"
+  },
+  {
+    "value": "SALTO DE AGUA"
+  },
+  {
+    "value": "SAN FERNANDO"
+  },
+  {
+    "value": "SILTEPEC"
+  },
+  {
+    "value": "HONDURAS DE LA SIERRA"
+  },
+  {
+    "value": "CAPITAN LUIS ANGEL VIDAL"
+  },
+  {
+    "value": "SAN ANDRES DURAZNAL"
+  },
+  {
+    "value": "SIMOJOVEL"
+  },
+  {
+    "value": "SITALA"
+  },
+  {
+    "value": "SOCOLTENANGO"
+  },
+  {
+    "value": "SOLOSUCHIAPA"
+  },
+  {
+    "value": "SOYALO"
+  },
+  {
+    "value": "SUCHIATE"
+  },
+  {
+    "value": "SUNUAPA"
+  },
+  {
+    "value": "TAPALAPA"
+  },
+  {
+    "value": "TAPILULA"
+  },
+  {
+    "value": "TECPATAN"
+  },
+  {
+    "value": "MEZCALAPA"
+  },
+  {
+    "value": "TENEJAPA"
+  },
+  {
+    "value": "TEOPISCA"
+  },
+  {
+    "value": "TILA"
+  },
+  {
+    "value": "TONALA"
+  },
+  {
+    "value": "TOTOLAPA"
+  },
+  {
+    "value": "LA TRINITARIA"
+  },
+  {
+    "value": "TUMBALA"
+  },
+  {
+    "value": "TUXTLA CHICO"
+  },
+  {
+    "value": "TUZANTAN"
+  },
+  {
+    "value": "TZIMOL"
+  },
+  {
+    "value": "UNION JUAREZ"
+  },
+  {
+    "value": "VENUSTIANO CARRANZA"
+  },
+  {
+    "value": "VILLA CORZO"
+  },
+  {
+    "value": "EL PARRAL"
+  },
+  {
+    "value": "MONTECRISTO DE GUERRERO"
+  },
+  {
+    "value": "VILLAFLORES"
+  },
+  {
+    "value": "YAJALON"
+  },
+  {
+    "value": "SAN LUCAS"
+  },
+  {
+    "value": "ZINACANTAN"
+  },
+  {
+    "value": "SAN JUAN CANCUC"
+  },
+  {
+    "value": "SUCHIAPA"
+  },
+  {
+    "value": "FRANCISCO LEON"
+  },
+  {
+    "value": "IXTACOMITAN"
+  },
+  {
+    "value": "LAS ROSAS"
+  },
+  {
+    "value": "CUAJIMALPA DE MORELOS"
+  },
+  {
+    "value": "COYOACAN"
+  },
+  {
+    "value": "BENITO JUAREZ"
+  },
+  {
+    "value": "AZCAPOTZALCO"
+  },
+  {
+    "value": "MIGUEL HIDALGO"
+  },
+  {
+    "value": "TLALPAN"
+  },
+  {
+    "value": "ALVARO OBREGON"
+  },
+  {
+    "value": "IZTAPALAPA"
+  },
+  {
+    "value": "GUSTAVO A. MADERO"
+  },
+  {
+    "value": "IZTACALCO"
+  },
+  {
+    "value": "LA MAGDALENA CONTRERAS"
+  },
+  {
+    "value": "MILPA ALTA"
+  },
+  {
+    "value": "TLAHUAC"
+  },
+  {
+    "value": "XOCHIMILCO"
+  },
+  {
+    "value": "LERDO"
+  },
+  {
+    "value": "DURANGO"
+  },
+  {
+    "value": "GOMEZ PALACIO"
+  },
+  {
+    "value": "PUEBLO NUEVO"
+  },
+  {
+    "value": "CANATLAN"
+  },
+  {
+    "value": "CANELAS"
+  },
+  {
+    "value": "CONETO DE COMONFORT"
+  },
+  {
+    "value": "CUENCAME"
+  },
+  {
+    "value": "GENERAL SIMON BOLIVAR"
+  },
+  {
+    "value": "GUADALUPE VICTORIA"
+  },
+  {
+    "value": "GUANACEVI"
+  },
+  {
+    "value": "INDE"
+  },
+  {
+    "value": "MAPIMI"
+  },
+  {
+    "value": "MEZQUITAL"
+  },
+  {
+    "value": "NAZAS"
+  },
+  {
+    "value": "NOMBRE DE DIOS"
+  },
+  {
+    "value": "EL ORO"
+  },
+  {
+    "value": "OTAEZ"
+  },
+  {
+    "value": "PANUCO DE CORONADO"
+  },
+  {
+    "value": "PEÑON BLANCO"
+  },
+  {
+    "value": "POANAS"
+  },
+  {
+    "value": "RODEO"
+  },
+  {
+    "value": "SAN BERNARDO"
+  },
+  {
+    "value": "SAN DIMAS"
+  },
+  {
+    "value": "SAN JUAN DE GUADALUPE"
+  },
+  {
+    "value": "SAN JUAN DEL RIO"
+  },
+  {
+    "value": "SAN LUIS DEL CORDERO"
+  },
+  {
+    "value": "SAN PEDRO DEL GALLO"
+  },
+  {
+    "value": "SANTA CLARA"
+  },
+  {
+    "value": "SANTIAGO PAPASQUIARO"
+  },
+  {
+    "value": "SUCHIL"
+  },
+  {
+    "value": "TAMAZULA"
+  },
+  {
+    "value": "TEPEHUANES"
+  },
+  {
+    "value": "TLAHUALILO"
+  },
+  {
+    "value": "TOPIA"
+  },
+  {
+    "value": "VICENTE GUERRERO"
+  },
+  {
+    "value": "NUEVO IDEAL"
+  },
+  {
+    "value": "ACAPULCO DE JUAREZ"
+  },
+  {
+    "value": "ZIHUATANEJO DE AZUETA"
+  },
+  {
+    "value": "CHILPANCINGO DE LOS BRAVO"
+  },
+  {
+    "value": "ARCELIA"
+  },
+  {
+    "value": "TELOLOAPAN"
+  },
+  {
+    "value": "TEPECOACUILCO DE TRUJANO"
+  },
+  {
+    "value": "CHILAPA DE ALVAREZ"
+  },
+  {
+    "value": "TIXTLA DE GUERRERO"
+  },
+  {
+    "value": "EDUARDO NERI"
+  },
+  {
+    "value": "OLINALA"
+  },
+  {
+    "value": "TLAPA DE COMONFORT"
+  },
+  {
+    "value": "ATOYAC DE ALVAREZ"
+  },
+  {
+    "value": "COYUCA DE BENITEZ"
+  },
+  {
+    "value": "PETATLAN"
+  },
+  {
+    "value": "AZOYU"
+  },
+  {
+    "value": "LEONARDO BRAVO"
+  },
+  {
+    "value": "AYUTLA DE LOS LIBRES"
+  },
+  {
+    "value": "IGUALA DE LA INDEPENDENCIA"
+  },
+  {
+    "value": "TAXCO DE ALARCON"
+  },
+  {
+    "value": "SAN MARCOS"
+  },
+  {
+    "value": "OMETEPEC"
+  },
+  {
+    "value": "JUAN R. ESCUDERO"
+  },
+  {
+    "value": "PUNGARABATO"
+  },
+  {
+    "value": "COYUCA DE CATALAN"
+  },
+  {
+    "value": "TECPAN DE GALEANA"
+  },
+  {
+    "value": "LA UNION DE ISIDORO MONTES DE OCA"
+  },
+  {
+    "value": "COAHUAYUTLA DE JOSE MARIA IZAZAGA"
+  },
+  {
+    "value": "HUITZUCO DE LOS FIGUEROA"
+  },
+  {
+    "value": "COPANATOYAC"
+  },
+  {
+    "value": "MALINALTEPEC"
+  },
+  {
+    "value": "ILIATENCO"
+  },
+  {
+    "value": "METLATONOC"
+  },
+  {
+    "value": "ATLIXTAC"
+  },
+  {
+    "value": "COCHOAPA EL GRANDE"
+  },
+  {
+    "value": "ACATEPEC"
+  },
+  {
+    "value": "SAN LUIS ACATLAN"
+  },
+  {
+    "value": "XOCHISTLAHUACA"
+  },
+  {
+    "value": "XALPATLAHUAC"
+  },
+  {
+    "value": "TECOANAPA"
+  },
+  {
+    "value": "CUAUTEPEC"
+  },
+  {
+    "value": "CUALAC"
+  },
+  {
+    "value": "TLACOAPA"
+  },
+  {
+    "value": "ALCOZAUCA DE GUERRERO"
+  },
+  {
+    "value": "TLACOACHISTLAHUACA"
+  },
+  {
+    "value": "CUTZAMALA DE PINZON"
+  },
+  {
+    "value": "AJUCHITLAN DEL PROGRESO"
+  },
+  {
+    "value": "HUAMUXTITLAN"
+  },
+  {
+    "value": "TLAPEHUALA"
+  },
+  {
+    "value": "APAXTLA"
+  },
+  {
+    "value": "BUENAVISTA DE CUELLAR"
+  },
+  {
+    "value": "CUAJINICUILAPA"
+  },
+  {
+    "value": "FLORENCIO VILLARREAL"
+  },
+  {
+    "value": "GENERAL HELIODORO CASTILLO"
+  },
+  {
+    "value": "MOCHITLAN"
+  },
+  {
+    "value": "ZIRANDARO"
+  },
+  {
+    "value": "PILCAYA"
+  },
+  {
+    "value": "COCULA"
+  },
+  {
+    "value": "QUECHULTENANGO"
+  },
+  {
+    "value": "TLALCHAPA"
+  },
+  {
+    "value": "MARQUELIA"
+  },
+  {
+    "value": "AHUACUOTZINGO"
+  },
+  {
+    "value": "ALPOYECA"
+  },
+  {
+    "value": "ATENANGO DEL RIO"
+  },
+  {
+    "value": "ATLAMAJALCINGO DEL MONTE"
+  },
+  {
+    "value": "JUCHITAN"
+  },
+  {
+    "value": "COPALA"
+  },
+  {
+    "value": "COPALILLO"
+  },
+  {
+    "value": "CUETZALA DEL PROGRESO"
+  },
+  {
+    "value": "JOSE JOAQUIN DE HERRERA"
+  },
+  {
+    "value": "GENERAL CANUTO A. NERI"
+  },
+  {
+    "value": "IGUALAPA"
+  },
+  {
+    "value": "IXCATEOPAN DE CUAUHTEMOC"
+  },
+  {
+    "value": "MARTIR DE CUILAPAN"
+  },
+  {
+    "value": "PEDRO ASCENCIO ALQUISIRAS"
+  },
+  {
+    "value": "SAN MIGUEL TOTOLAPAN"
+  },
+  {
+    "value": "TETIPAC"
+  },
+  {
+    "value": "TLALIXTAQUILLA DE MALDONADO"
+  },
+  {
+    "value": "XOCHIHUEHUETLAN"
+  },
+  {
+    "value": "ZAPOTITLAN TABLAS"
+  },
+  {
+    "value": "ZITLALA"
+  },
+  {
+    "value": "SALAMANCA"
+  },
+  {
+    "value": "LEON"
+  },
+  {
+    "value": "CELAYA"
+  },
+  {
+    "value": "IRAPUATO"
+  },
+  {
+    "value": "SILAO DE LA VICTORIA"
+  },
+  {
+    "value": "SAN MIGUEL DE ALLENDE"
+  },
+  {
+    "value": "SANTA CRUZ DE JUVENTINO ROSAS"
+  },
+  {
+    "value": "COMONFORT"
+  },
+  {
+    "value": "ACAMBARO"
+  },
+  {
+    "value": "SALVATIERRA"
+  },
+  {
+    "value": "SAN FELIPE"
+  },
+  {
+    "value": "DOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL"
+  },
+  {
+    "value": "APASEO EL ALTO"
+  },
+  {
+    "value": "APASEO EL GRANDE"
+  },
+  {
+    "value": "MANUEL DOBLADO"
+  },
+  {
+    "value": "CORTAZAR"
+  },
+  {
+    "value": "MOROLEON"
+  },
+  {
+    "value": "CUERAMARO"
+  },
+  {
+    "value": "GUANAJUATO"
+  },
+  {
+    "value": "JARAL DEL PROGRESO"
+  },
+  {
+    "value": "PENJAMO"
+  },
+  {
+    "value": "PURISIMA DEL RINCON"
+  },
+  {
+    "value": "ROMITA"
+  },
+  {
+    "value": "SAN FRANCISCO DEL RINCON"
+  },
+  {
+    "value": "SAN JOSE ITURBIDE"
+  },
+  {
+    "value": "SAN LUIS DE LA PAZ"
+  },
+  {
+    "value": "TARIMORO"
+  },
+  {
+    "value": "VALLE DE SANTIAGO"
+  },
+  {
+    "value": "VILLAGRAN"
+  },
+  {
+    "value": "YURIRIA"
+  },
+  {
+    "value": "URIANGATO"
+  },
+  {
+    "value": "DOCTOR MORA"
+  },
+  {
+    "value": "JERECUARO"
+  },
+  {
+    "value": "SAN DIEGO DE LA UNION"
+  },
+  {
+    "value": "SANTIAGO MARAVATIO"
+  },
+  {
+    "value": "TARANDACUAO"
+  },
+  {
+    "value": "TIERRA BLANCA"
+  },
+  {
+    "value": "VICTORIA"
+  },
+  {
+    "value": "XICHU"
+  },
+  {
+    "value": "HUANIMARO"
+  },
+  {
+    "value": "ATARJEA"
+  },
+  {
+    "value": "CORONEO"
+  },
+  {
+    "value": "SANTA CATARINA"
+  },
+  {
+    "value": "TULANCINGO DE BRAVO"
+  },
+  {
+    "value": "PACHUCA DE SOTO"
+  },
+  {
+    "value": "ACATLAN"
+  },
+  {
+    "value": "ACAXOCHITLAN"
+  },
+  {
+    "value": "ACTOPAN"
+  },
+  {
+    "value": "AGUA BLANCA DE ITURBIDE"
+  },
+  {
+    "value": "AJACUBA"
+  },
+  {
+    "value": "ALFAJAYUCAN"
+  },
+  {
+    "value": "ALMOLOYA"
+  },
+  {
+    "value": "APAN"
+  },
+  {
+    "value": "EL ARENAL"
+  },
+  {
+    "value": "ATLAPEXCO"
+  },
+  {
+    "value": "ATOTONILCO EL GRANDE"
+  },
+  {
+    "value": "ATOTONILCO DE TULA"
+  },
+  {
+    "value": "CALNALI"
+  },
+  {
+    "value": "CARDONAL"
+  },
+  {
+    "value": "CUAUTEPEC DE HINOJOSA"
+  },
+  {
+    "value": "CHAPANTONGO"
+  },
+  {
+    "value": "CHAPULHUACAN"
+  },
+  {
+    "value": "CHILCUAUTLA"
+  },
+  {
+    "value": "ELOXOCHITLAN"
+  },
+  {
+    "value": "EPAZOYUCAN"
+  },
+  {
+    "value": "HUASCA DE OCAMPO"
+  },
+  {
+    "value": "HUAUTLA"
+  },
+  {
+    "value": "HUAZALINGO"
+  },
+  {
+    "value": "HUEHUETLA"
+  },
+  {
+    "value": "HUEJUTLA DE REYES"
+  },
+  {
+    "value": "HUICHAPAN"
+  },
+  {
+    "value": "IXMIQUILPAN"
+  },
+  {
+    "value": "JACALA DE LEDEZMA"
+  },
+  {
+    "value": "JALTOCAN"
+  },
+  {
+    "value": "JUAREZ HIDALGO"
+  },
+  {
+    "value": "LOLOTLA"
+  },
+  {
+    "value": "METEPEC"
+  },
+  {
+    "value": "SAN AGUSTIN METZQUITITLAN"
+  },
+  {
+    "value": "METZTITLAN"
+  },
+  {
+    "value": "LA MISION"
+  },
+  {
+    "value": "MIXQUIAHUALA DE JUAREZ"
+  },
+  {
+    "value": "MOLANGO DE ESCAMILLA"
+  },
+  {
+    "value": "NICOLAS FLORES"
+  },
+  {
+    "value": "NOPALA DE VILLAGRAN"
+  },
+  {
+    "value": "OMITLAN DE JUAREZ"
+  },
+  {
+    "value": "SAN FELIPE ORIZATLAN"
+  },
+  {
+    "value": "PACULA"
+  },
+  {
+    "value": "PISAFLORES"
+  },
+  {
+    "value": "SAN BARTOLO TUTOTEPEC"
+  },
+  {
+    "value": "SAN SALVADOR"
+  },
+  {
+    "value": "SANTIAGO DE ANAYA"
+  },
+  {
+    "value": "SANTIAGO TULANTEPEC DE LUGO GUERRERO"
+  },
+  {
+    "value": "SINGUILUCAN"
+  },
+  {
+    "value": "TASQUILLO"
+  },
+  {
+    "value": "TECOZAUTLA"
+  },
+  {
+    "value": "TENANGO DE DORIA"
+  },
+  {
+    "value": "TEPEAPULCO"
+  },
+  {
+    "value": "TEPEHUACAN DE GUERRERO"
+  },
+  {
+    "value": "TEPEJI DEL RIO DE OCAMPO"
+  },
+  {
+    "value": "TEPETITLAN"
+  },
+  {
+    "value": "TIANGUISTENGO"
+  },
+  {
+    "value": "TLAHUILTEPA"
+  },
+  {
+    "value": "TLANCHINOL"
+  },
+  {
+    "value": "TULA DE ALLENDE"
+  },
+  {
+    "value": "XOCHIATIPAN"
+  },
+  {
+    "value": "XOCHICOATLAN"
+  },
+  {
+    "value": "YAHUALICA"
+  },
+  {
+    "value": "ZACUALTIPAN DE ANGELES"
+  },
+  {
+    "value": "ZEMPOALA"
+  },
+  {
+    "value": "ZIMAPAN"
+  },
+  {
+    "value": "MINERAL DEL MONTE"
+  },
+  {
+    "value": "TIZAYUCA"
+  },
+  {
+    "value": "TLAXCOAPAN"
+  },
+  {
+    "value": "MINERAL DE LA REFORMA"
+  },
+  {
+    "value": "TEZONTEPEC DE ALDAMA"
+  },
+  {
+    "value": "ZAPOTLAN DE JUAREZ"
+  },
+  {
+    "value": "ATITALAQUIA"
+  },
+  {
+    "value": "TETEPANGO"
+  },
+  {
+    "value": "PROGRESO DE OBREGON"
+  },
+  {
+    "value": "SAN AGUSTIN TLAXIACA"
+  },
+  {
+    "value": "VILLA DE TEZONTEPEC"
+  },
+  {
+    "value": "TLAHUELILPAN"
+  },
+  {
+    "value": "TOLCAYUCA"
+  },
+  {
+    "value": "MINERAL DEL CHICO"
+  },
+  {
+    "value": "TLANALAPA"
+  },
+  {
+    "value": "ZAPOPAN"
+  },
+  {
+    "value": "SAN PEDRO TLAQUEPAQUE"
+  },
+  {
+    "value": "PUERTO VALLARTA"
+  },
+  {
+    "value": "GUADALAJARA"
+  },
+  {
+    "value": "OCOTLAN"
+  },
+  {
+    "value": "ZAPOTLANEJO"
+  },
+  {
+    "value": "TECALITLAN"
+  },
+  {
+    "value": "TOMATLAN"
+  },
+  {
+    "value": "ATOTONILCO EL ALTO"
+  },
+  {
+    "value": "ZAPOTLAN EL GRANDE"
+  },
+  {
+    "value": "TEPATITLAN DE MORELOS"
+  },
+  {
+    "value": "LAGOS DE MORENO"
+  },
+  {
+    "value": "TUXPAN"
+  },
+  {
+    "value": "ZAPOTILTIC"
+  },
+  {
+    "value": "ENCARNACION DE DIAZ"
+  },
+  {
+    "value": "ACATIC"
+  },
+  {
+    "value": "ACATLAN DE JUAREZ"
+  },
+  {
+    "value": "AHUALULCO DE MERCADO"
+  },
+  {
+    "value": "AMATITAN"
+  },
+  {
+    "value": "AMECA"
+  },
+  {
+    "value": "ARANDAS"
+  },
+  {
+    "value": "AUTLAN DE NAVARRO"
+  },
+  {
+    "value": "AYOTLAN"
+  },
+  {
+    "value": "AYUTLA"
+  },
+  {
+    "value": "LA BARCA"
+  },
+  {
+    "value": "BOLAÑOS"
+  },
+  {
+    "value": "CASIMIRO CASTILLO"
+  },
+  {
+    "value": "CIHUATLAN"
+  },
+  {
+    "value": "COLOTLAN"
+  },
+  {
+    "value": "CHAPALA"
+  },
+  {
+    "value": "DEGOLLADO"
+  },
+  {
+    "value": "ETZATLAN"
+  },
+  {
+    "value": "EL GRULLO"
+  },
+  {
+    "value": "LA HUERTA"
+  },
+  {
+    "value": "IXTLAHUACAN DEL RIO"
+  },
+  {
+    "value": "JALOSTOTITLAN"
+  },
+  {
+    "value": "JAMAY"
+  },
+  {
+    "value": "JOCOTEPEC"
+  },
+  {
+    "value": "MAGDALENA"
+  },
+  {
+    "value": "MASCOTA"
+  },
+  {
+    "value": "MAZAMITLA"
+  },
+  {
+    "value": "PIHUAMO"
+  },
+  {
+    "value": "PONCITLAN"
+  },
+  {
+    "value": "EL SALTO"
+  },
+  {
+    "value": "SAN JUAN DE LOS LAGOS"
+  },
+  {
+    "value": "SAN MARTIN DE BOLAÑOS"
+  },
+  {
+    "value": "SAN MARTIN HIDALGO"
+  },
+  {
+    "value": "SAN MIGUEL EL ALTO"
+  },
+  {
+    "value": "SANTA MARIA DE LOS ANGELES"
+  },
+  {
+    "value": "TALA"
+  },
+  {
+    "value": "TALPA DE ALLENDE"
+  },
+  {
+    "value": "TAMAZULA DE GORDIANO"
+  },
+  {
+    "value": "TAPALPA"
+  },
+  {
+    "value": "TECOLOTLAN"
+  },
+  {
+    "value": "TECHALUTA DE MONTENEGRO"
+  },
+  {
+    "value": "TEOCALTICHE"
+  },
+  {
+    "value": "TEOCUITATLAN DE CORONA"
+  },
+  {
+    "value": "TEQUILA"
+  },
+  {
+    "value": "TLAJOMULCO DE ZUÑIGA"
+  },
+  {
+    "value": "TONILA"
+  },
+  {
+    "value": "TOTATICHE"
+  },
+  {
+    "value": "UNION DE SAN ANTONIO"
+  },
+  {
+    "value": "SAN GABRIEL"
+  },
+  {
+    "value": "VILLA CORONA"
+  },
+  {
+    "value": "YAHUALICA DE GONZALEZ GALLO"
+  },
+  {
+    "value": "ZACOALCO DE TORRES"
+  },
+  {
+    "value": "TIZAPAN EL ALTO"
+  },
+  {
+    "value": "SAN JULIAN"
+  },
+  {
+    "value": "OJUELOS DE JALISCO"
+  },
+  {
+    "value": "TEUCHITLAN"
+  },
+  {
+    "value": "IXTLAHUACAN DE LOS MEMBRILLOS"
+  },
+  {
+    "value": "SAN IGNACIO CERRO GORDO"
+  },
+  {
+    "value": "CABO CORRIENTES"
+  },
+  {
+    "value": "CUAUTITLAN DE GARCIA BARRAGAN"
+  },
+  {
+    "value": "CUQUIO"
+  },
+  {
+    "value": "HUEJUCAR"
+  },
+  {
+    "value": "HUEJUQUILLA EL ALTO"
+  },
+  {
+    "value": "MEZQUITIC"
+  },
+  {
+    "value": "MIXTLAN"
+  },
+  {
+    "value": "VILLA PURIFICACION"
+  },
+  {
+    "value": "SAYULA"
+  },
+  {
+    "value": "TOTOTLAN"
+  },
+  {
+    "value": "UNION DE TULA"
+  },
+  {
+    "value": "VILLA GUERRERO"
+  },
+  {
+    "value": "GUACHINANGO"
+  },
+  {
+    "value": "ATENGUILLO"
+  },
+  {
+    "value": "VALLE DE JUAREZ"
+  },
+  {
+    "value": "VILLA HIDALGO"
+  },
+  {
+    "value": "AMACUECA"
+  },
+  {
+    "value": "SAN JUANITO DE ESCOBEDO"
+  },
+  {
+    "value": "ATEMAJAC DE BRIZUELA"
+  },
+  {
+    "value": "ATENGO"
+  },
+  {
+    "value": "ATOYAC"
+  },
+  {
+    "value": "CONCEPCION DE BUENOS AIRES"
+  },
+  {
+    "value": "CUAUTLA"
+  },
+  {
+    "value": "CHIMALTITAN"
+  },
+  {
+    "value": "CHIQUILISTLAN"
+  },
+  {
+    "value": "EJUTLA"
+  },
+  {
+    "value": "HOSTOTIPAQUILLO"
+  },
+  {
+    "value": "JILOTLAN DE LOS DOLORES"
+  },
+  {
+    "value": "JUANACATLAN"
+  },
+  {
+    "value": "JUCHITLAN"
+  },
+  {
+    "value": "EL LIMON"
+  },
+  {
+    "value": "SANTA MARIA DEL ORO"
+  },
+  {
+    "value": "LA MANZANILLA DE LA PAZ"
+  },
+  {
+    "value": "MEXTICACAN"
+  },
+  {
+    "value": "QUITUPAN"
+  },
+  {
+    "value": "SAN CRISTOBAL DE LA BARRANCA"
+  },
+  {
+    "value": "SAN DIEGO DE ALEJANDRIA"
+  },
+  {
+    "value": "SAN SEBASTIAN DEL OESTE"
+  },
+  {
+    "value": "TENAMAXTLAN"
+  },
+  {
+    "value": "TOLIMAN"
+  },
+  {
+    "value": "TONAYA"
+  },
+  {
+    "value": "TUXCACUESCO"
+  },
+  {
+    "value": "TUXCUECA"
+  },
+  {
+    "value": "VALLE DE GUADALUPE"
+  },
+  {
+    "value": "CAÑADAS DE OBREGON"
+  },
+  {
+    "value": "ZAPOTITLAN DE VADILLO"
+  },
+  {
+    "value": "ZAPOTLAN DEL REY"
+  },
+  {
+    "value": "TOLUCA"
+  },
+  {
+    "value": "TEXCOCO"
+  },
+  {
+    "value": "ATIZAPAN DE ZARAGOZA"
+  },
+  {
+    "value": "NEZAHUALCOYOTL"
+  },
+  {
+    "value": "TLALNEPANTLA DE BAZ"
+  },
+  {
+    "value": "VALLE DE CHALCO SOLIDARIDAD"
+  },
+  {
+    "value": "CHALCO"
+  },
+  {
+    "value": "COACALCO DE BERRIOZABAL"
+  },
+  {
+    "value": "CUAUTITLAN"
+  },
+  {
+    "value": "CUAUTITLAN IZCALLI"
+  },
+  {
+    "value": "IXTAPALUCA"
+  },
+  {
+    "value": "NAUCALPAN DE JUAREZ"
+  },
+  {
+    "value": "ECATEPEC DE MORELOS"
+  },
+  {
+    "value": "NICOLAS ROMERO"
+  },
+  {
+    "value": "ZUMPANGO"
+  },
+  {
+    "value": "IXTAPAN DE LA SAL"
+  },
+  {
+    "value": "ZINACANTEPEC"
+  },
+  {
+    "value": "ACAMBAY DE RUIZ CASTAÑEDA"
+  },
+  {
+    "value": "TEMASCALCINGO"
+  },
+  {
+    "value": "JIQUIPILCO"
+  },
+  {
+    "value": "JOCOTITLAN"
+  },
+  {
+    "value": "ACULCO"
+  },
+  {
+    "value": "CHAPA DE MOTA"
+  },
+  {
+    "value": "JILOTEPEC"
+  },
+  {
+    "value": "VILLA DEL CARBON"
+  },
+  {
+    "value": "ATIZAPAN"
+  },
+  {
+    "value": "CAPULHUAC"
+  },
+  {
+    "value": "XALATLACO"
+  },
+  {
+    "value": "MEXICALTZINGO"
+  },
+  {
+    "value": "SAN ANTONIO LA ISLA"
+  },
+  {
+    "value": "TENANGO DEL VALLE"
+  },
+  {
+    "value": "TEXCALYACAC"
+  },
+  {
+    "value": "TIANGUISTENCO"
+  },
+  {
+    "value": "ALMOLOYA DE JUAREZ"
+  },
+  {
+    "value": "LERMA"
+  },
+  {
+    "value": "OCOYOACAC"
+  },
+  {
+    "value": "SAN MATEO ATENCO"
+  },
+  {
+    "value": "XONACATLAN"
+  },
+  {
+    "value": "AMATEPEC"
+  },
+  {
+    "value": "SAN SIMON DE GUERRERO"
+  },
+  {
+    "value": "TEMASCALTEPEC"
+  },
+  {
+    "value": "MALINALCO"
+  },
+  {
+    "value": "OCUILAN"
+  },
+  {
+    "value": "TENANCINGO"
+  },
+  {
+    "value": "TEXCALTITLAN"
+  },
+  {
+    "value": "TONATICO"
+  },
+  {
+    "value": "DONATO GUERRA"
+  },
+  {
+    "value": "IXTAPAN DEL ORO"
+  },
+  {
+    "value": "VALLE DE BRAVO"
+  },
+  {
+    "value": "VILLA VICTORIA"
+  },
+  {
+    "value": "COYOTEPEC"
+  },
+  {
+    "value": "MELCHOR OCAMPO"
+  },
+  {
+    "value": "TEOLOYUCAN"
+  },
+  {
+    "value": "TEPOTZOTLAN"
+  },
+  {
+    "value": "TULTEPEC"
+  },
+  {
+    "value": "TULTITLAN"
+  },
+  {
+    "value": "SAN MARTIN DE LAS PIRAMIDES"
+  },
+  {
+    "value": "APAXCO"
+  },
+  {
+    "value": "HUEYPOXTLA"
+  },
+  {
+    "value": "JALTENCO"
+  },
+  {
+    "value": "TECAMAC"
+  },
+  {
+    "value": "TEQUIXQUIAC"
+  },
+  {
+    "value": "AMECAMECA"
+  },
+  {
+    "value": "ATLAUTLA"
+  },
+  {
+    "value": "COCOTITLAN"
+  },
+  {
+    "value": "JUCHITEPEC"
+  },
+  {
+    "value": "OZUMBA"
+  },
+  {
+    "value": "TEMAMATLA"
+  },
+  {
+    "value": "TLALMANALCO"
+  },
+  {
+    "value": "ATENCO"
+  },
+  {
+    "value": "CHIAUTLA"
+  },
+  {
+    "value": "CHICOLOAPAN"
+  },
+  {
+    "value": "CHICONCUAC"
+  },
+  {
+    "value": "CHIMALHUACAN"
+  },
+  {
+    "value": "TEPETLAOXTOC"
+  },
+  {
+    "value": "TEZOYUCA"
+  },
+  {
+    "value": "ATLACOMULCO"
+  },
+  {
+    "value": "IXTLAHUACA"
+  },
+  {
+    "value": "COATEPEC HARINAS"
+  },
+  {
+    "value": "HUIXQUILUCAN"
+  },
+  {
+    "value": "SAN FELIPE DEL PROGRESO"
+  },
+  {
+    "value": "HUEHUETOCA"
+  },
+  {
+    "value": "SAN JOSE DEL RINCON"
+  },
+  {
+    "value": "LUVIANOS"
+  },
+  {
+    "value": "ZUMPAHUACAN"
+  },
+  {
+    "value": "TEMASCALAPA"
+  },
+  {
+    "value": "OTUMBA"
+  },
+  {
+    "value": "SULTEPEC"
+  },
+  {
+    "value": "TEJUPILCO"
+  },
+  {
+    "value": "AMANALCO"
+  },
+  {
+    "value": "VILLA DE ALLENDE"
+  },
+  {
+    "value": "JILOTZINGO"
+  },
+  {
+    "value": "TEMOAYA"
+  },
+  {
+    "value": "ACOLMAN"
+  },
+  {
+    "value": "POLOTITLAN"
+  },
+  {
+    "value": "TEOTIHUACAN"
+  },
+  {
+    "value": "OTZOLOTEPEC"
+  },
+  {
+    "value": "TLATLAYA"
+  },
+  {
+    "value": "ZACAZONAPAN"
+  },
+  {
+    "value": "ZACUALPAN"
+  },
+  {
+    "value": "OTZOLOAPAN"
+  },
+  {
+    "value": "TIMILPAN"
+  },
+  {
+    "value": "SANTO TOMAS"
+  },
+  {
+    "value": "ALMOLOYA DE ALQUISIRAS"
+  },
+  {
+    "value": "NEXTLALPAN"
+  },
+  {
+    "value": "TEPETLIXPA"
+  },
+  {
+    "value": "ALMOLOYA DEL RIO"
+  },
+  {
+    "value": "CALIMAYA"
+  },
+  {
+    "value": "SOYANIQUILPAN DE JUAREZ"
+  },
+  {
+    "value": "AXAPUSCO"
+  },
+  {
+    "value": "AYAPANGO"
+  },
+  {
+    "value": "CHAPULTEPEC"
+  },
+  {
+    "value": "ECATZINGO"
+  },
+  {
+    "value": "ISIDRO FABELA"
+  },
+  {
+    "value": "TONANITLA"
+  },
+  {
+    "value": "JOQUICINGO"
+  },
+  {
+    "value": "NOPALTEPEC"
+  },
+  {
+    "value": "PAPALOTLA"
+  },
+  {
+    "value": "TENANGO DEL AIRE"
+  },
+  {
+    "value": "ZAMORA"
+  },
+  {
+    "value": "MORELIA"
+  },
+  {
+    "value": "LA PIEDAD"
+  },
+  {
+    "value": "HUANDACAREO"
+  },
+  {
+    "value": "ZINAPECUARO"
+  },
+  {
+    "value": "PUREPERO"
+  },
+  {
+    "value": "TANGANCICUARO"
+  },
+  {
+    "value": "CONTEPEC"
+  },
+  {
+    "value": "PANINDICUARO"
+  },
+  {
+    "value": "PATZCUARO"
+  },
+  {
+    "value": "ZACAPU"
+  },
+  {
+    "value": "PERIBAN"
+  },
+  {
+    "value": "URUAPAN"
+  },
+  {
+    "value": "TLAZAZALCA"
+  },
+  {
+    "value": "LAZARO CARDENAS"
+  },
+  {
+    "value": "ZITACUARO"
+  },
+  {
+    "value": "JACONA"
+  },
+  {
+    "value": "AGUILILLA"
+  },
+  {
+    "value": "ANGAMACUTIRO"
+  },
+  {
+    "value": "APATZINGAN"
+  },
+  {
+    "value": "AQUILA"
+  },
+  {
+    "value": "ARIO"
+  },
+  {
+    "value": "NUEVO URECHO"
+  },
+  {
+    "value": "BRISEÑAS"
+  },
+  {
+    "value": "BUENAVISTA"
+  },
+  {
+    "value": "CARACUARO"
+  },
+  {
+    "value": "COAHUAYANA"
+  },
+  {
+    "value": "COALCOMAN DE VAZQUEZ PALLARES"
+  },
+  {
+    "value": "COENEO"
+  },
+  {
+    "value": "COTIJA"
+  },
+  {
+    "value": "CUITZEO"
+  },
+  {
+    "value": "CHARAPAN"
+  },
+  {
+    "value": "CHARO"
+  },
+  {
+    "value": "CHAVINDA"
+  },
+  {
+    "value": "CHERAN"
+  },
+  {
+    "value": "CHILCHOTA"
+  },
+  {
+    "value": "CHINICUILA"
+  },
+  {
+    "value": "CHUCANDIRO"
+  },
+  {
+    "value": "CHURINTZIO"
+  },
+  {
+    "value": "CHURUMUCO"
+  },
+  {
+    "value": "ECUANDUREO"
+  },
+  {
+    "value": "EPITACIO HUERTA"
+  },
+  {
+    "value": "ERONGARICUARO"
+  },
+  {
+    "value": "GABRIEL ZAMORA"
+  },
+  {
+    "value": "LA HUACANA"
+  },
+  {
+    "value": "HUANIQUEO"
+  },
+  {
+    "value": "HUETAMO"
+  },
+  {
+    "value": "HUIRAMBA"
+  },
+  {
+    "value": "INDAPARAPEO"
+  },
+  {
+    "value": "IRIMBO"
+  },
+  {
+    "value": "IXTLAN"
+  },
+  {
+    "value": "JIQUILPAN"
+  },
+  {
+    "value": "JUNGAPEO"
+  },
+  {
+    "value": "MADERO"
+  },
+  {
+    "value": "MARAVATIO"
+  },
+  {
+    "value": "MARCOS CASTELLANOS"
+  },
+  {
+    "value": "MUGICA"
+  },
+  {
+    "value": "NAHUATZEN"
+  },
+  {
+    "value": "NOCUPETARO"
+  },
+  {
+    "value": "NUEVO PARANGARICUTIRO"
+  },
+  {
+    "value": "NUMARAN"
+  },
+  {
+    "value": "PAJACUARAN"
+  },
+  {
+    "value": "PARACUARO"
+  },
+  {
+    "value": "PARACHO"
+  },
+  {
+    "value": "PENJAMILLO"
+  },
+  {
+    "value": "PURUANDIRO"
+  },
+  {
+    "value": "QUERENDARO"
+  },
+  {
+    "value": "QUIROGA"
+  },
+  {
+    "value": "COJUMATLAN DE REGULES"
+  },
+  {
+    "value": "LOS REYES"
+  },
+  {
+    "value": "SANTA ANA MAYA"
+  },
+  {
+    "value": "SALVADOR ESCALANTE"
+  },
+  {
+    "value": "SENGUIO"
+  },
+  {
+    "value": "SUSUPUATO"
+  },
+  {
+    "value": "TACAMBARO"
+  },
+  {
+    "value": "TANCITARO"
+  },
+  {
+    "value": "TANGAMANDAPIO"
+  },
+  {
+    "value": "TANHUATO"
+  },
+  {
+    "value": "TARIMBARO"
+  },
+  {
+    "value": "TEPALCATEPEC"
+  },
+  {
+    "value": "TINGÜINDIN"
+  },
+  {
+    "value": "TIQUICHEO DE NICOLAS ROMERO"
+  },
+  {
+    "value": "TLALPUJAHUA"
+  },
+  {
+    "value": "TUMBISCATIO"
+  },
+  {
+    "value": "TURICATO"
+  },
+  {
+    "value": "TUZANTLA"
+  },
+  {
+    "value": "TZINTZUNTZAN"
+  },
+  {
+    "value": "TZITZIO"
+  },
+  {
+    "value": "VILLAMAR"
+  },
+  {
+    "value": "VISTA HERMOSA"
+  },
+  {
+    "value": "YURECUARO"
+  },
+  {
+    "value": "ZINAPARO"
+  },
+  {
+    "value": "ZIRACUARETIRO"
+  },
+  {
+    "value": "JOSE SIXTO VERDUZCO"
+  },
+  {
+    "value": "ANGANGUEO"
+  },
+  {
+    "value": "TARETAN"
+  },
+  {
+    "value": "TOCUMBO"
+  },
+  {
+    "value": "ACUITZIO"
+  },
+  {
+    "value": "SAHUAYO"
+  },
+  {
+    "value": "TINGAMBATO"
+  },
+  {
+    "value": "COPANDARO"
+  },
+  {
+    "value": "LAGUNILLAS"
+  },
+  {
+    "value": "APORO"
+  },
+  {
+    "value": "CUERNAVACA"
+  },
+  {
+    "value": "JONACATEPEC DE LEANDRO VALLE"
+  },
+  {
+    "value": "TOTOLAPAN"
+  },
+  {
+    "value": "AXOCHIAPAN"
+  },
+  {
+    "value": "TEMIXCO"
+  },
+  {
+    "value": "YECAPIXTLA"
+  },
+  {
+    "value": "JOJUTLA"
+  },
+  {
+    "value": "TLAYACAPAN"
+  },
+  {
+    "value": "TETECALA"
+  },
+  {
+    "value": "TLALTIZAPAN DE ZAPATA"
+  },
+  {
+    "value": "AYALA"
+  },
+  {
+    "value": "TLAQUILTENANGO"
+  },
+  {
+    "value": "JANTETELCO"
+  },
+  {
+    "value": "JIUTEPEC"
+  },
+  {
+    "value": "MIACATLAN"
+  },
+  {
+    "value": "PUENTE DE IXTLA"
+  },
+  {
+    "value": "TEPALCINGO"
+  },
+  {
+    "value": "TEPOZTLAN"
+  },
+  {
+    "value": "XOCHITEPEC"
+  },
+  {
+    "value": "YAUTEPEC"
+  },
+  {
+    "value": "ZACATEPEC"
+  },
+  {
+    "value": "AMACUZAC"
+  },
+  {
+    "value": "HUITZILAC"
+  },
+  {
+    "value": "TETELA DEL VOLCAN"
+  },
+  {
+    "value": "ZACUALPAN DE AMILPAS"
+  },
+  {
+    "value": "ATLATLAHUCAN"
+  },
+  {
+    "value": "OCUITUCO"
+  },
+  {
+    "value": "MAZATEPEC"
+  },
+  {
+    "value": "COATLAN DEL RIO"
+  },
+  {
+    "value": "XOXOCOTLA"
+  },
+  {
+    "value": "HUEYAPAN"
+  },
+  {
+    "value": "TLALNEPANTLA"
+  },
+  {
+    "value": "TEMOAC"
+  },
+  {
+    "value": "COATETELCO"
+  },
+  {
+    "value": "SAN NICOLAS DE LOS GARZA"
+  },
+  {
+    "value": "GENERAL ESCOBEDO"
+  },
+  {
+    "value": "MONTERREY"
+  },
+  {
+    "value": "SAN PEDRO GARZA GARCIA"
+  },
+  {
+    "value": "APODACA"
+  },
+  {
+    "value": "GARCIA"
+  },
+  {
+    "value": "HUALAHUISES"
+  },
+  {
+    "value": "EL CARMEN"
+  },
+  {
+    "value": "GENERAL BRAVO"
+  },
+  {
+    "value": "ITURBIDE"
+  },
+  {
+    "value": "GENERAL ZARAGOZA"
+  },
+  {
+    "value": "DOCTOR COSS"
+  },
+  {
+    "value": "SANTIAGO"
+  },
+  {
+    "value": "CHINA"
+  },
+  {
+    "value": "CIENEGA DE FLORES"
+  },
+  {
+    "value": "SABINAS HIDALGO"
+  },
+  {
+    "value": "CADEREYTA JIMENEZ"
+  },
+  {
+    "value": "MONTEMORELOS"
+  },
+  {
+    "value": "AGUALEGUAS"
+  },
+  {
+    "value": "ANAHUAC"
+  },
+  {
+    "value": "ARAMBERRI"
+  },
+  {
+    "value": "CERRALVO"
+  },
+  {
+    "value": "DOCTOR ARROYO"
+  },
+  {
+    "value": "GENERAL TERAN"
+  },
+  {
+    "value": "LAMPAZOS DE NARANJO"
+  },
+  {
+    "value": "LINARES"
+  },
+  {
+    "value": "SALINAS VICTORIA"
+  },
+  {
+    "value": "VILLALDAMA"
+  },
+  {
+    "value": "GENERAL ZUAZUA"
+  },
+  {
+    "value": "PESQUERIA"
+  },
+  {
+    "value": "LOS ALDAMAS"
+  },
+  {
+    "value": "BUSTAMANTE"
+  },
+  {
+    "value": "DOCTOR GONZALEZ"
+  },
+  {
+    "value": "GENERAL TREVIÑO"
+  },
+  {
+    "value": "LOS HERRERAS"
+  },
+  {
+    "value": "HIGUERAS"
+  },
+  {
+    "value": "MARIN"
+  },
+  {
+    "value": "MIER Y NORIEGA"
+  },
+  {
+    "value": "MINA"
+  },
+  {
+    "value": "PARAS"
+  },
+  {
+    "value": "LOS RAMONES"
+  },
+  {
+    "value": "RAYONES"
+  },
+  {
+    "value": "VALLECILLO"
+  },
+  {
+    "value": "TEPIC"
+  },
+  {
+    "value": "ACAPONETA"
+  },
+  {
+    "value": "COMPOSTELA"
+  },
+  {
+    "value": "IXTLAN DEL RIO"
+  },
+  {
+    "value": "SANTIAGO IXCUINTLA"
+  },
+  {
+    "value": "TECUALA"
+  },
+  {
+    "value": "AHUACATLAN"
+  },
+  {
+    "value": "AMATLAN DE CAÑAS"
+  },
+  {
+    "value": "BAHIA DE BANDERAS"
+  },
+  {
+    "value": "HUAJICORI"
+  },
+  {
+    "value": "JALA"
+  },
+  {
+    "value": "ROSAMORADA"
+  },
+  {
+    "value": "RUIZ"
+  },
+  {
+    "value": "SAN BLAS"
+  },
+  {
+    "value": "SAN PEDRO LAGUNILLAS"
+  },
+  {
+    "value": "XALISCO"
+  },
+  {
+    "value": "DEL NAYAR"
+  },
+  {
+    "value": "LA YESCA"
+  },
+  {
+    "value": "SANTA MARIA HUATULCO"
+  },
+  {
+    "value": "OAXACA DE JUAREZ"
+  },
+  {
+    "value": "SAN PEDRO MIXTEPEC"
+  },
+  {
+    "value": "HEROICA CIUDAD DE HUAJUAPAN DE LEON"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA TUXTEPEC"
+  },
+  {
+    "value": "ACATLAN DE PEREZ FIGUEROA"
+  },
+  {
+    "value": "ASUNCION CACALOTEPEC"
+  },
+  {
+    "value": "ASUNCION CUYOTEPEJI"
+  },
+  {
+    "value": "ASUNCION IXTALTEPEC"
+  },
+  {
+    "value": "ASUNCION NOCHIXTLAN"
+  },
+  {
+    "value": "AYOTZINTEPEC"
+  },
+  {
+    "value": "EL BARRIO DE LA SOLEDAD"
+  },
+  {
+    "value": "CALIHUALA"
+  },
+  {
+    "value": "CANDELARIA LOXICHA"
+  },
+  {
+    "value": "COATECAS ALTAS"
+  },
+  {
+    "value": "COICOYAN DE LAS FLORES"
+  },
+  {
+    "value": "CONCEPCION PAPALO"
+  },
+  {
+    "value": "CONSTANCIA DEL ROSARIO"
+  },
+  {
+    "value": "COSOLTEPEC"
+  },
+  {
+    "value": "CUILAPAM DE GUERRERO"
+  },
+  {
+    "value": "CUYAMECALCO VILLA DE ZARAGOZA"
+  },
+  {
+    "value": "CHAHUITES"
+  },
+  {
+    "value": "CHALCATONGO DE HIDALGO"
+  },
+  {
+    "value": "CHIQUIHUITLAN DE BENITO JUAREZ"
+  },
+  {
+    "value": "ELOXOCHITLAN DE FLORES MAGON"
+  },
+  {
+    "value": "FRESNILLO DE TRUJANO"
+  },
+  {
+    "value": "GUEVEA DE HUMBOLDT"
+  },
+  {
+    "value": "MESONES HIDALGO"
+  },
+  {
+    "value": "HUAUTEPEC"
+  },
+  {
+    "value": "HUAUTLA DE JIMENEZ"
+  },
+  {
+    "value": "IXTLAN DE JUAREZ"
+  },
+  {
+    "value": "LOMA BONITA"
+  },
+  {
+    "value": "MAGDALENA JALTEPEC"
+  },
+  {
+    "value": "MAGDALENA OCOTLAN"
+  },
+  {
+    "value": "MAGDALENA PEÑASCO"
+  },
+  {
+    "value": "MAGDALENA TEQUISISTLAN"
+  },
+  {
+    "value": "MAGDALENA TLACOTEPEC"
+  },
+  {
+    "value": "MATIAS ROMERO AVENDAÑO"
+  },
+  {
+    "value": "MAZATLAN VILLA DE FLORES"
+  },
+  {
+    "value": "MIAHUATLAN DE PORFIRIO DIAZ"
+  },
+  {
+    "value": "MIXISTLAN DE LA REFORMA"
+  },
+  {
+    "value": "NEJAPA DE MADERO"
+  },
+  {
+    "value": "IXPANTEPEC NIEVES"
+  },
+  {
+    "value": "PINOTEPA DE DON LUIS"
+  },
+  {
+    "value": "PUTLA VILLA DE GUERRERO"
+  },
+  {
+    "value": "REFORMA DE PINEDA"
+  },
+  {
+    "value": "LA REFORMA"
+  },
+  {
+    "value": "SAN AGUSTIN AMATENGO"
+  },
+  {
+    "value": "SAN AGUSTIN ATENANGO"
+  },
+  {
+    "value": "SAN AGUSTIN CHAYUCO"
+  },
+  {
+    "value": "SAN AGUSTIN ETLA"
+  },
+  {
+    "value": "SAN AGUSTIN LOXICHA"
+  },
+  {
+    "value": "SAN AGUSTIN TLACOTEPEC"
+  },
+  {
+    "value": "SAN ANDRES IXTLAHUACA"
+  },
+  {
+    "value": "SAN ANDRES LAGUNAS"
+  },
+  {
+    "value": "SAN ANDRES NUXIÑO"
+  },
+  {
+    "value": "SAN ANDRES PAXTLAN"
+  },
+  {
+    "value": "SAN ANDRES SINAXTLA"
+  },
+  {
+    "value": "SAN ANDRES SOLAGA"
+  },
+  {
+    "value": "SAN ANDRES TEOTILALPAM"
+  },
+  {
+    "value": "SAN ANDRES TEPETLAPA"
+  },
+  {
+    "value": "SAN ANDRES YAA"
+  },
+  {
+    "value": "SAN ANTONINO EL ALTO"
+  },
+  {
+    "value": "SAN ANTONINO MONTE VERDE"
+  },
+  {
+    "value": "SAN ANTONIO HUITEPEC"
+  },
+  {
+    "value": "SAN ANTONIO SINICAHUA"
+  },
+  {
+    "value": "SAN ANTONIO TEPETLAPA"
+  },
+  {
+    "value": "SAN BALTAZAR LOXICHA"
+  },
+  {
+    "value": "SAN BARTOLOME AYAUTLA"
+  },
+  {
+    "value": "SAN BARTOLOME LOXICHA"
+  },
+  {
+    "value": "SAN BARTOLOME QUIALANA"
+  },
+  {
+    "value": "SAN BARTOLOME YUCUAÑE"
+  },
+  {
+    "value": "SAN BARTOLOME ZOOGOCHO"
+  },
+  {
+    "value": "SAN BERNARDO MIXTEPEC"
+  },
+  {
+    "value": "SAN BLAS ATEMPA"
+  },
+  {
+    "value": "SAN CARLOS YAUTEPEC"
+  },
+  {
+    "value": "SAN CRISTOBAL AMATLAN"
+  },
+  {
+    "value": "SAN CRISTOBAL AMOLTEPEC"
+  },
+  {
+    "value": "SAN CRISTOBAL LACHIRIOAG"
+  },
+  {
+    "value": "SAN DIONISIO DEL MAR"
+  },
+  {
+    "value": "SAN DIONISIO OCOTEPEC"
+  },
+  {
+    "value": "SAN DIONISIO OCOTLAN"
+  },
+  {
+    "value": "SAN ESTEBAN ATATLAHUCA"
+  },
+  {
+    "value": "SAN FELIPE JALAPA DE DIAZ"
+  },
+  {
+    "value": "SAN FELIPE TEJALAPAM"
+  },
+  {
+    "value": "SAN FELIPE USILA"
+  },
+  {
+    "value": "SAN FRANCISCO CAHUACUA"
+  },
+  {
+    "value": "SAN FRANCISCO CAJONOS"
+  },
+  {
+    "value": "SAN FRANCISCO DEL MAR"
+  },
+  {
+    "value": "SAN FRANCISCO IXHUATAN"
+  },
+  {
+    "value": "SAN FRANCISCO JALTEPETONGO"
+  },
+  {
+    "value": "SAN FRANCISCO LOGUECHE"
+  },
+  {
+    "value": "SAN FRANCISCO OZOLOTEPEC"
+  },
+  {
+    "value": "SAN FRANCISCO TELIXTLAHUACA"
+  },
+  {
+    "value": "SAN FRANCISCO TLAPANCINGO"
+  },
+  {
+    "value": "SAN ILDEFONSO VILLA ALTA"
+  },
+  {
+    "value": "SAN JACINTO TLACOTEPEC"
+  },
+  {
+    "value": "SAN JERONIMO COATLAN"
+  },
+  {
+    "value": "SAN JERONIMO SILACAYOAPILLA"
+  },
+  {
+    "value": "SAN JORGE NUCHITA"
+  },
+  {
+    "value": "SAN JOSE CHILTEPEC"
+  },
+  {
+    "value": "SAN JOSE DEL PEÑASCO"
+  },
+  {
+    "value": "SAN JOSE ESTANCIA GRANDE"
+  },
+  {
+    "value": "SAN JOSE INDEPENDENCIA"
+  },
+  {
+    "value": "SAN JOSE LACHIGUIRI"
+  },
+  {
+    "value": "SAN JOSE TENANGO"
+  },
+  {
+    "value": "SAN JUAN ACHIUTLA"
+  },
+  {
+    "value": "ANIMAS TRUJANO"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA ATATLAHUCA"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA COIXTLAHUACA"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA CUICATLAN"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA TLACOATZINTEPEC"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA TLACHICHILCO"
+  },
+  {
+    "value": "SAN JUAN CACAHUATEPEC"
+  },
+  {
+    "value": "SAN JUAN CIENEGUILLA"
+  },
+  {
+    "value": "SAN JUAN COATZOSPAM"
+  },
+  {
+    "value": "SAN JUAN COLORADO"
+  },
+  {
+    "value": "SAN JUAN COMALTEPEC"
+  },
+  {
+    "value": "SAN JUAN COTZOCON"
+  },
+  {
+    "value": "SAN JUAN CHILATECA"
+  },
+  {
+    "value": "SAN JUAN DEL ESTADO"
+  },
+  {
+    "value": "SAN JUAN DIUXI"
+  },
+  {
+    "value": "SAN JUAN GUELAVIA"
+  },
+  {
+    "value": "SAN JUAN GUICHICOVI"
+  },
+  {
+    "value": "SAN JUAN IHUALTEPEC"
+  },
+  {
+    "value": "SAN JUAN JUQUILA MIXES"
+  },
+  {
+    "value": "SAN JUAN LACHAO"
+  },
+  {
+    "value": "SAN JUAN LACHIGALLA"
+  },
+  {
+    "value": "SAN JUAN LALANA"
+  },
+  {
+    "value": "SAN JUAN DE LOS CUES"
+  },
+  {
+    "value": "SAN JUAN MAZATLAN"
+  },
+  {
+    "value": "SAN JUAN MIXTEPEC"
+  },
+  {
+    "value": "SAN JUAN ÑUMI"
+  },
+  {
+    "value": "SAN JUAN OZOLOTEPEC"
+  },
+  {
+    "value": "SAN JUAN PETLAPA"
+  },
+  {
+    "value": "SAN JUAN QUIAHIJE"
+  },
+  {
+    "value": "SAN JUAN QUIOTEPEC"
+  },
+  {
+    "value": "SAN JUAN TAMAZOLA"
+  },
+  {
+    "value": "SAN JUAN TEITA"
+  },
+  {
+    "value": "SAN JUAN TEPEUXILA"
+  },
+  {
+    "value": "SAN JUAN TEPOSCOLULA"
+  },
+  {
+    "value": "SAN LORENZO"
+  },
+  {
+    "value": "SAN LORENZO CACAOTEPEC"
+  },
+  {
+    "value": "SAN LORENZO TEXMELUCAN"
+  },
+  {
+    "value": "SAN LUCAS OJITLAN"
+  },
+  {
+    "value": "SAN LUCAS ZOQUIAPAM"
+  },
+  {
+    "value": "SAN LUIS AMATLAN"
+  },
+  {
+    "value": "SAN MARCIAL OZOLOTEPEC"
+  },
+  {
+    "value": "SAN MARCOS ARTEAGA"
+  },
+  {
+    "value": "SAN MARTIN DE LOS CANSECOS"
+  },
+  {
+    "value": "SAN MARTIN ITUNYOSO"
+  },
+  {
+    "value": "SAN MARTIN LACHILA"
+  },
+  {
+    "value": "SAN MARTIN PERAS"
+  },
+  {
+    "value": "SAN MARTIN ZACATEPEC"
+  },
+  {
+    "value": "SAN MATEO DEL MAR"
+  },
+  {
+    "value": "SAN MATEO PEÑASCO"
+  },
+  {
+    "value": "SAN MATEO PIÑAS"
+  },
+  {
+    "value": "SAN MATEO RIO HONDO"
+  },
+  {
+    "value": "SAN MATEO SINDIHUI"
+  },
+  {
+    "value": "SAN MIGUEL AMATLAN"
+  },
+  {
+    "value": "SAN MIGUEL CHICAHUA"
+  },
+  {
+    "value": "SAN MIGUEL CHIMALAPA"
+  },
+  {
+    "value": "SAN MIGUEL DEL PUERTO"
+  },
+  {
+    "value": "SAN MIGUEL EL GRANDE"
+  },
+  {
+    "value": "SAN MIGUEL PANIXTLAHUACA"
+  },
+  {
+    "value": "SAN MIGUEL QUETZALTEPEC"
+  },
+  {
+    "value": "SAN MIGUEL SANTA FLOR"
+  },
+  {
+    "value": "SAN MIGUEL SOYALTEPEC"
+  },
+  {
+    "value": "SAN MIGUEL TENANGO"
+  },
+  {
+    "value": "SAN MIGUEL TILQUIAPAM"
+  },
+  {
+    "value": "SAN MIGUEL TLACAMAMA"
+  },
+  {
+    "value": "SAN MIGUEL TULANCINGO"
+  },
+  {
+    "value": "SAN PABLO COATLAN"
+  },
+  {
+    "value": "SAN PABLO ETLA"
+  },
+  {
+    "value": "SAN PABLO TIJALTEPEC"
+  },
+  {
+    "value": "HEROICA CIUDAD DE TLAXIACO"
+  },
+  {
+    "value": "SAN PEDRO AMUZGOS"
+  },
+  {
+    "value": "SAN PEDRO ATOYAC"
+  },
+  {
+    "value": "SAN PEDRO EL ALTO"
+  },
+  {
+    "value": "SAN PEDRO HUAMELULA"
+  },
+  {
+    "value": "SAN PEDRO IXCATLAN"
+  },
+  {
+    "value": "SAN PEDRO JICAYAN"
+  },
+  {
+    "value": "SAN PEDRO JOCOTIPAC"
+  },
+  {
+    "value": "SAN PEDRO JUCHATENGO"
+  },
+  {
+    "value": "SAN PEDRO MARTIR YUCUXACO"
+  },
+  {
+    "value": "SAN PEDRO MIXTEPEC -DTO. 26 -"
+  },
+  {
+    "value": "SAN PEDRO MOLINOS"
+  },
+  {
+    "value": "SAN PEDRO POCHUTLA"
+  },
+  {
+    "value": "SAN PEDRO QUIATONI"
+  },
+  {
+    "value": "SAN PEDRO SOCHIAPAM"
+  },
+  {
+    "value": "SAN PEDRO TEOZACOALCO"
+  },
+  {
+    "value": "SAN PEDRO TEUTILA"
+  },
+  {
+    "value": "SAN PEDRO TIDAA"
+  },
+  {
+    "value": "SAN PEDRO TOTOLAPAM"
+  },
+  {
+    "value": "VILLA DE TUTUTEPEC"
+  },
+  {
+    "value": "SAN PEDRO YANERI"
+  },
+  {
+    "value": "SAN PEDRO Y SAN PABLO AYUTLA"
+  },
+  {
+    "value": "SAN PEDRO Y SAN PABLO TEQUIXTEPEC"
+  },
+  {
+    "value": "SAN SEBASTIAN COATLAN"
+  },
+  {
+    "value": "SAN SEBASTIAN IXCAPA"
+  },
+  {
+    "value": "SAN SEBASTIAN NICANANDUTA"
+  },
+  {
+    "value": "SAN SEBASTIAN TECOMAXTLAHUACA"
+  },
+  {
+    "value": "SAN SEBASTIAN TEITIPAC"
+  },
+  {
+    "value": "SAN SIMON ALMOLONGAS"
+  },
+  {
+    "value": "SAN SIMON ZAHUATLAN"
+  },
+  {
+    "value": "SANTA ANA"
+  },
+  {
+    "value": "SANTA ANA ATEIXTLAHUACA"
+  },
+  {
+    "value": "SANTA ANA CUAUHTEMOC"
+  },
+  {
+    "value": "SANTA ANA TAVELA"
+  },
+  {
+    "value": "SANTA ANA TLAPACOYAN"
+  },
+  {
+    "value": "SANTA ANA YARENI"
+  },
+  {
+    "value": "SANTA ANA ZEGACHE"
+  },
+  {
+    "value": "SANTA CATARINA IXTEPEJI"
+  },
+  {
+    "value": "SANTA CATARINA JUQUILA"
+  },
+  {
+    "value": "SANTA CATARINA LACHATAO"
+  },
+  {
+    "value": "SANTA CATARINA MECHOACAN"
+  },
+  {
+    "value": "SANTA CATARINA TAYATA"
+  },
+  {
+    "value": "SANTA CATARINA YOSONOTU"
+  },
+  {
+    "value": "SANTA CRUZ ITUNDUJIA"
+  },
+  {
+    "value": "SANTA CRUZ NUNDACO"
+  },
+  {
+    "value": "SANTA CRUZ TACACHE DE MINA"
+  },
+  {
+    "value": "SANTA CRUZ TACAHUA"
+  },
+  {
+    "value": "SANTA CRUZ TAYATA"
+  },
+  {
+    "value": "SANTA CRUZ XITLA"
+  },
+  {
+    "value": "SANTA CRUZ ZENZONTEPEC"
+  },
+  {
+    "value": "SANTA LUCIA MIAHUATLAN"
+  },
+  {
+    "value": "SANTA LUCIA MONTEVERDE"
+  },
+  {
+    "value": "SANTA MARIA ALOTEPEC"
+  },
+  {
+    "value": "SANTA MARIA APAZCO"
+  },
+  {
+    "value": "SANTA MARIA CHACHOAPAM"
+  },
+  {
+    "value": "SANTA MARIA CHILCHOTLA"
+  },
+  {
+    "value": "SANTA MARIA CHIMALAPA"
+  },
+  {
+    "value": "SANTA MARIA DEL TULE"
+  },
+  {
+    "value": "SANTA MARIA ECATEPEC"
+  },
+  {
+    "value": "SANTA MARIA HUAZOLOTITLAN"
+  },
+  {
+    "value": "SANTA MARIA IPALAPA"
+  },
+  {
+    "value": "SANTA MARIA IXCATLAN"
+  },
+  {
+    "value": "SANTA MARIA JACATEPEC"
+  },
+  {
+    "value": "SANTA MARIA NATIVITAS"
+  },
+  {
+    "value": "SANTA MARIA PAPALO"
+  },
+  {
+    "value": "SANTA MARIA PEÑOLES"
+  },
+  {
+    "value": "SANTA MARIA PETAPA"
+  },
+  {
+    "value": "SANTA MARIA SOLA"
+  },
+  {
+    "value": "SANTA MARIA TEMAXCALAPA"
+  },
+  {
+    "value": "SANTA MARIA TEOPOXCO"
+  },
+  {
+    "value": "SANTA MARIA TEPANTLALI"
+  },
+  {
+    "value": "SANTA MARIA TEXCATITLAN"
+  },
+  {
+    "value": "SANTA MARIA TLAHUITOLTEPEC"
+  },
+  {
+    "value": "SANTA MARIA TLALIXTAC"
+  },
+  {
+    "value": "SANTA MARIA TONAMECA"
+  },
+  {
+    "value": "SANTA MARIA TOTOLAPILLA"
+  },
+  {
+    "value": "SANTA MARIA XADANI"
+  },
+  {
+    "value": "SANTA MARIA YOLOTEPEC"
+  },
+  {
+    "value": "SANTA MARIA YOSOYUA"
+  },
+  {
+    "value": "SANTA MARIA YUCUHITI"
+  },
+  {
+    "value": "SANTA MARIA ZACATEPEC"
+  },
+  {
+    "value": "SANTA MARIA ZOQUITLAN"
+  },
+  {
+    "value": "SANTIAGO AMOLTEPEC"
+  },
+  {
+    "value": "SANTIAGO APOALA"
+  },
+  {
+    "value": "SANTIAGO APOSTOL"
+  },
+  {
+    "value": "SANTIAGO ATITLAN"
+  },
+  {
+    "value": "SANTIAGO AYUQUILILLA"
+  },
+  {
+    "value": "SANTIAGO CACALOXTEPEC"
+  },
+  {
+    "value": "SANTIAGO CAMOTLAN"
+  },
+  {
+    "value": "VILLA DE SANTIAGO CHAZUMBA"
+  },
+  {
+    "value": "SANTIAGO CHOAPAM"
+  },
+  {
+    "value": "SANTIAGO DEL RIO"
+  },
+  {
+    "value": "SANTIAGO HUAJOLOTITLAN"
+  },
+  {
+    "value": "SANTIAGO HUAUCLILLA"
+  },
+  {
+    "value": "SANTIAGO IXCUINTEPEC"
+  },
+  {
+    "value": "SANTIAGO IXTAYUTLA"
+  },
+  {
+    "value": "SANTIAGO JAMILTEPEC"
+  },
+  {
+    "value": "SANTIAGO JOCOTEPEC"
+  },
+  {
+    "value": "SANTIAGO JUXTLAHUACA"
+  },
+  {
+    "value": "SANTIAGO LACHIGUIRI"
+  },
+  {
+    "value": "SANTO DOMINGO TEHUANTEPEC"
+  },
+  {
+    "value": "SANTIAGO LAOLLAGA"
+  },
+  {
+    "value": "SANTIAGO LLANO GRANDE"
+  },
+  {
+    "value": "SANTIAGO MATATLAN"
+  },
+  {
+    "value": "SANTIAGO MINAS"
+  },
+  {
+    "value": "SANTIAGO NACALTEPEC"
+  },
+  {
+    "value": "SANTIAGO NEJAPILLA"
+  },
+  {
+    "value": "SANTIAGO NUNDICHE"
+  },
+  {
+    "value": "SANTIAGO NUYOO"
+  },
+  {
+    "value": "SANTIAGO PINOTEPA NACIONAL"
+  },
+  {
+    "value": "SANTIAGO TAPEXTLA"
+  },
+  {
+    "value": "SANTIAGO TENANGO"
+  },
+  {
+    "value": "SANTIAGO TETEPEC"
+  },
+  {
+    "value": "SANTIAGO TEXCALCINGO"
+  },
+  {
+    "value": "SANTIAGO TEXTITLAN"
+  },
+  {
+    "value": "SANTIAGO TILANTONGO"
+  },
+  {
+    "value": "SANTIAGO TILLO"
+  },
+  {
+    "value": "SANTIAGO TLAZOYALTEPEC"
+  },
+  {
+    "value": "SANTIAGO XANICA"
+  },
+  {
+    "value": "SANTIAGO XIACUI"
+  },
+  {
+    "value": "SANTIAGO YAVEO"
+  },
+  {
+    "value": "SANTIAGO YOSONDUA"
+  },
+  {
+    "value": "SANTIAGO ZOOCHILA"
+  },
+  {
+    "value": "SANTO DOMINGO INGENIO"
+  },
+  {
+    "value": "SANTO DOMINGO ALBARRADAS"
+  },
+  {
+    "value": "SAN PABLO VILLA DE MITLA"
+  },
+  {
+    "value": "SANTO DOMINGO DE MORELOS"
+  },
+  {
+    "value": "SANTO DOMINGO PETAPA"
+  },
+  {
+    "value": "SANTO DOMINGO TEOJOMULCO"
+  },
+  {
+    "value": "SANTO DOMINGO TEPUXTEPEC"
+  },
+  {
+    "value": "SANTO DOMINGO TONALA"
+  },
+  {
+    "value": "SANTO DOMINGO YANHUITLAN"
+  },
+  {
+    "value": "SANTOS REYES NOPALA"
+  },
+  {
+    "value": "SANTOS REYES PAPALO"
+  },
+  {
+    "value": "SANTOS REYES TEPEJILLO"
+  },
+  {
+    "value": "SANTO TOMAS OCOTEPEC"
+  },
+  {
+    "value": "SAN VICENTE LACHIXIO"
+  },
+  {
+    "value": "SILACAYOAPAM"
+  },
+  {
+    "value": "TANETZE DE ZARAGOZA"
+  },
+  {
+    "value": "TATALTEPEC DE VALDES"
+  },
+  {
+    "value": "TEOTITLAN DE FLORES MAGON"
+  },
+  {
+    "value": "HEROICA VILLA TEZOATLAN DE SEGURA Y LUNA, CUNA DE LA INDEPENDENCIA DE OAXACA"
+  },
+  {
+    "value": "TLACOLULA DE MATAMOROS"
+  },
+  {
+    "value": "TOTONTEPEC VILLA DE MORELOS"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA VALLE NACIONAL"
+  },
+  {
+    "value": "YAXE"
+  },
+  {
+    "value": "SAN MATEO YUCUTINDOO"
+  },
+  {
+    "value": "ZAPOTITLAN LAGUNAS"
+  },
+  {
+    "value": "ZAPOTITLAN PALMAS"
+  },
+  {
+    "value": "SANTA INES DE ZARAGOZA"
+  },
+  {
+    "value": "SALINA CRUZ"
+  },
+  {
+    "value": "JUCHITAN DE ZARAGOZA"
+  },
+  {
+    "value": "OCOTLAN DE MORELOS"
+  },
+  {
+    "value": "VILLA DE TAMAZULAPAM DEL PROGRESO"
+  },
+  {
+    "value": "ZIMATLAN DE ALVAREZ"
+  },
+  {
+    "value": "SAN PEDRO TAPANATEPEC"
+  },
+  {
+    "value": "CIUDAD IXTEPEC"
+  },
+  {
+    "value": "COSOLAPA"
+  },
+  {
+    "value": "MAGDALENA APASCO"
+  },
+  {
+    "value": "SAN PABLO HUITZO"
+  },
+  {
+    "value": "SAN PABLO MACUILTIANGUIS"
+  },
+  {
+    "value": "SANTA LUCIA DEL CAMINO"
+  },
+  {
+    "value": "SANTA CRUZ XOXOCOTLAN"
+  },
+  {
+    "value": "GUELATAO DE JUAREZ"
+  },
+  {
+    "value": "EL ESPINAL"
+  },
+  {
+    "value": "MARISCALA DE JUAREZ"
+  },
+  {
+    "value": "SAN MIGUEL EJUTLA"
+  },
+  {
+    "value": "VILLA SOLA DE VEGA"
+  },
+  {
+    "value": "SAN PABLO HUIXTEPEC"
+  },
+  {
+    "value": "SANTIAGO ASTATA"
+  },
+  {
+    "value": "SANTO DOMINGO ZANATEPEC"
+  },
+  {
+    "value": "UNION HIDALGO"
+  },
+  {
+    "value": "SAN BARTOLO COYOTEPEC"
+  },
+  {
+    "value": "SAN JOSE DEL PROGRESO"
+  },
+  {
+    "value": "VILLA DE ETLA"
+  },
+  {
+    "value": "SANTA MARIA OZOLOTEPEC"
+  },
+  {
+    "value": "SANTA MARIA ZANIZA"
+  },
+  {
+    "value": "SANTO TOMAS JALIEZA"
+  },
+  {
+    "value": "YOGANA"
+  },
+  {
+    "value": "SAN GABRIEL MIXTEPEC"
+  },
+  {
+    "value": "SANTA MARIA COLOTEPEC"
+  },
+  {
+    "value": "SAN MIGUEL AMATITLAN"
+  },
+  {
+    "value": "SAN PEDRO Y SAN PABLO TEPOSCOLULA"
+  },
+  {
+    "value": "SAN JUAN TABAA"
+  },
+  {
+    "value": "TEOCOCUILCO DE MARCOS PEREZ"
+  },
+  {
+    "value": "SAN AGUSTIN DE LAS JUNTAS"
+  },
+  {
+    "value": "SAN JACINTO AMILPAS"
+  },
+  {
+    "value": "SAN SEBASTIAN TUTLA"
+  },
+  {
+    "value": "SANTA MARIA ATZOMPA"
+  },
+  {
+    "value": "VILLA DE ZAACHILA"
+  },
+  {
+    "value": "SANTIAGO NILTEPEC"
+  },
+  {
+    "value": "SAN RAYMUNDO JALPAN"
+  },
+  {
+    "value": "NAZARENO ETLA"
+  },
+  {
+    "value": "SANTA MARIA JALAPA DEL MARQUES"
+  },
+  {
+    "value": "SANTA MARIA COYOTEPEC"
+  },
+  {
+    "value": "SAN ANTONIO DE LA CAL"
+  },
+  {
+    "value": "ABEJONES"
+  },
+  {
+    "value": "ASUNCION OCOTLAN"
+  },
+  {
+    "value": "ASUNCION TLACOLULITA"
+  },
+  {
+    "value": "CIENEGA DE ZIMATLAN"
+  },
+  {
+    "value": "LA COMPAÑIA"
+  },
+  {
+    "value": "HEROICA CIUDAD DE EJUTLA DE CRESPO"
+  },
+  {
+    "value": "TAMAZULAPAM DEL ESPIRITU SANTO"
+  },
+  {
+    "value": "GUADALUPE ETLA"
+  },
+  {
+    "value": "GUADALUPE DE RAMIREZ"
+  },
+  {
+    "value": "MAGDALENA TEITIPAC"
+  },
+  {
+    "value": "MARTIRES DE TACUBAYA"
+  },
+  {
+    "value": "MONJAS"
+  },
+  {
+    "value": "NATIVIDAD"
+  },
+  {
+    "value": "LA PE"
+  },
+  {
+    "value": "PLUMA HIDALGO"
+  },
+  {
+    "value": "REYES ETLA"
+  },
+  {
+    "value": "ROJAS DE CUAUHTEMOC"
+  },
+  {
+    "value": "SAN ANDRES CABECERA NUEVA"
+  },
+  {
+    "value": "SAN ANDRES DINICUITI"
+  },
+  {
+    "value": "SAN ANDRES HUAXPALTEPEC"
+  },
+  {
+    "value": "SAN ANDRES HUAYAPAM"
+  },
+  {
+    "value": "SAN ANDRES ZABACHE"
+  },
+  {
+    "value": "SAN ANDRES ZAUTLA"
+  },
+  {
+    "value": "SAN ANTONINO CASTILLO VELASCO"
+  },
+  {
+    "value": "SAN ANTONIO NANAHUATIPAM"
+  },
+  {
+    "value": "SAN BALTAZAR CHICHICAPAM"
+  },
+  {
+    "value": "SAN BARTOLO YAUTEPEC"
+  },
+  {
+    "value": "SAN CRISTOBAL SUCHIXTLAHUACA"
+  },
+  {
+    "value": "SAN FRANCISCO CHAPULAPA"
+  },
+  {
+    "value": "SAN FRANCISCO HUEHUETLAN"
+  },
+  {
+    "value": "SAN FRANCISCO LACHIGOLO"
+  },
+  {
+    "value": "SAN ILDEFONSO AMATLAN"
+  },
+  {
+    "value": "SAN JERONIMO SOSOLA"
+  },
+  {
+    "value": "SAN JERONIMO TAVICHE"
+  },
+  {
+    "value": "SAN JERONIMO TECOATL"
+  },
+  {
+    "value": "SAN JOSE AYUQUILA"
+  },
+  {
+    "value": "SAN JUAN ATEPEC"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA GUELACHE"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA JAYACATLAN"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA LO DE SOTO"
+  },
+  {
+    "value": "SAN JUAN BAUTISTA SUCHITEPEC"
+  },
+  {
+    "value": "SAN JUAN CHICOMEZUCHIL"
+  },
+  {
+    "value": "SAN JUAN EVANGELISTA ANALCO"
+  },
+  {
+    "value": "SAN JUAN JUQUILA VIJANOS"
+  },
+  {
+    "value": "SAN JUAN LAJARCIA"
+  },
+  {
+    "value": "SAN JUAN MIXTEPEC -DTO. 26 -"
+  },
+  {
+    "value": "SAN JUAN TEITIPAC"
+  },
+  {
+    "value": "SAN JUAN YAEE"
+  },
+  {
+    "value": "SAN LORENZO ALBARRADAS"
+  },
+  {
+    "value": "SAN LORENZO CUAUNECUILTITLA"
+  },
+  {
+    "value": "SAN LORENZO VICTORIA"
+  },
+  {
+    "value": "SAN LUCAS CAMOTLAN"
+  },
+  {
+    "value": "SAN LUCAS QUIAVINI"
+  },
+  {
+    "value": "SAN MARTIN TILCAJETE"
+  },
+  {
+    "value": "SAN MARTIN TOXPALAN"
+  },
+  {
+    "value": "SAN MATEO CAJONOS"
+  },
+  {
+    "value": "CAPULALPAM DE MENDEZ"
+  },
+  {
+    "value": "SAN MATEO YOLOXOCHITLAN"
+  },
+  {
+    "value": "SAN MATEO ETLATONGO"
+  },
+  {
+    "value": "SAN MATEO NEJAPAM"
+  },
+  {
+    "value": "SAN MATEO TLAPILTEPEC"
+  },
+  {
+    "value": "SAN MELCHOR BETAZA"
+  },
+  {
+    "value": "SAN MIGUEL ACHIUTLA"
+  },
+  {
+    "value": "SAN MIGUEL ALOAPAM"
+  },
+  {
+    "value": "SAN MIGUEL COATLAN"
+  },
+  {
+    "value": "SAN MIGUEL HUAUTLA"
+  },
+  {
+    "value": "SAN MIGUEL MIXTEPEC"
+  },
+  {
+    "value": "SAN MIGUEL PERAS"
+  },
+  {
+    "value": "SAN MIGUEL PIEDRAS"
+  },
+  {
+    "value": "SAN MIGUEL SUCHIXTEPEC"
+  },
+  {
+    "value": "VILLA TALEA DE CASTRO"
+  },
+  {
+    "value": "SAN MIGUEL TEQUIXTEPEC"
+  },
+  {
+    "value": "SAN MIGUEL TLACOTEPEC"
+  },
+  {
+    "value": "SAN MIGUEL YOTAO"
+  },
+  {
+    "value": "SAN NICOLAS HIDALGO"
+  },
+  {
+    "value": "SAN PABLO CUATRO VENADOS"
+  },
+  {
+    "value": "SAN PABLO YAGANIZA"
+  },
+  {
+    "value": "SAN PEDRO APOSTOL"
+  },
+  {
+    "value": "SAN PEDRO CAJONOS"
+  },
+  {
+    "value": "SAN PEDRO COXCALTEPEC CANTAROS"
+  },
+  {
+    "value": "SAN PEDRO COMITANCILLO"
+  },
+  {
+    "value": "SAN PEDRO HUILOTEPEC"
+  },
+  {
+    "value": "SAN PEDRO IXTLAHUACA"
+  },
+  {
+    "value": "SAN PEDRO JALTEPETONGO"
+  },
+  {
+    "value": "SAN PEDRO MARTIR"
+  },
+  {
+    "value": "SAN PEDRO MARTIR QUIECHAPA"
+  },
+  {
+    "value": "SAN PEDRO NOPALA"
+  },
+  {
+    "value": "SAN PEDRO OCOPETATILLO"
+  },
+  {
+    "value": "SAN PEDRO OCOTEPEC"
+  },
+  {
+    "value": "SAN PEDRO TAVICHE"
+  },
+  {
+    "value": "SAN PEDRO TOPILTEPEC"
+  },
+  {
+    "value": "SAN PEDRO YOLOX"
+  },
+  {
+    "value": "SAN SEBASTIAN ABASOLO"
+  },
+  {
+    "value": "SAN SEBASTIAN RIO HONDO"
+  },
+  {
+    "value": "SANTA ANA DEL VALLE"
+  },
+  {
+    "value": "SANTA CATALINA QUIERI"
+  },
+  {
+    "value": "SANTA CATARINA CUIXTLA"
+  },
+  {
+    "value": "SANTA CATARINA LOXICHA"
+  },
+  {
+    "value": "SANTA CATARINA QUIANE"
+  },
+  {
+    "value": "SANTA CATARINA TICUA"
+  },
+  {
+    "value": "SANTA CATARINA ZAPOQUILA"
+  },
+  {
+    "value": "SANTA CRUZ ACATEPEC"
+  },
+  {
+    "value": "SANTA CRUZ DE BRAVO"
+  },
+  {
+    "value": "SANTA CRUZ MIXTEPEC"
+  },
+  {
+    "value": "SANTA CRUZ PAPALUTLA"
+  },
+  {
+    "value": "SANTA GERTRUDIS"
+  },
+  {
+    "value": "SANTA INES DEL MONTE"
+  },
+  {
+    "value": "SANTA INES YATZECHE"
+  },
+  {
+    "value": "SANTA LUCIA OCOTLAN"
+  },
+  {
+    "value": "SANTA MARIA LA ASUNCION"
+  },
+  {
+    "value": "AYOQUEZCO DE ALDAMA"
+  },
+  {
+    "value": "SANTA MARIA CAMOTLAN"
+  },
+  {
+    "value": "SANTA MARIA CORTIJO"
+  },
+  {
+    "value": "VILLA DE CHILAPA DE DIAZ"
+  },
+  {
+    "value": "SANTA MARIA DEL ROSARIO"
+  },
+  {
+    "value": "SANTA MARIA GUIENAGATI"
+  },
+  {
+    "value": "SANTA MARIA JALTIANGUIS"
+  },
+  {
+    "value": "SANTA MARIA LACHIXIO"
+  },
+  {
+    "value": "SANTA MARIA MIXTEQUILLA"
+  },
+  {
+    "value": "SANTA MARIA NDUAYACO"
+  },
+  {
+    "value": "SANTA MARIA QUIEGOLANI"
+  },
+  {
+    "value": "SANTA MARIA TECOMAVACA"
+  },
+  {
+    "value": "SANTA MARIA TEMAXCALTEPEC"
+  },
+  {
+    "value": "SANTA MARIA YALINA"
+  },
+  {
+    "value": "SANTA MARIA YAVESIA"
+  },
+  {
+    "value": "SANTIAGO COMALTEPEC"
+  },
+  {
+    "value": "SANTIAGO IHUITLAN PLUMAS"
+  },
+  {
+    "value": "SANTIAGO LALOPA"
+  },
+  {
+    "value": "SANTIAGO LAXOPA"
+  },
+  {
+    "value": "SANTIAGO MILTEPEC"
+  },
+  {
+    "value": "SANTIAGO SUCHILQUITONGO"
+  },
+  {
+    "value": "SANTIAGO TAMAZOLA"
+  },
+  {
+    "value": "VILLA TEJUPAM DE LA UNION"
+  },
+  {
+    "value": "SANTIAGO YAITEPEC"
+  },
+  {
+    "value": "SANTIAGO YOLOMECATL"
+  },
+  {
+    "value": "SANTIAGO YUCUYACHI"
+  },
+  {
+    "value": "SANTIAGO ZACATEPEC"
+  },
+  {
+    "value": "NUEVO ZOQUIAPAM"
+  },
+  {
+    "value": "SANTO DOMINGO ARMENTA"
+  },
+  {
+    "value": "SANTO DOMINGO CHIHUITAN"
+  },
+  {
+    "value": "SANTO DOMINGO IXCATLAN"
+  },
+  {
+    "value": "SANTO DOMINGO NUXAA"
+  },
+  {
+    "value": "SANTO DOMINGO OZOLOTEPEC"
+  },
+  {
+    "value": "SANTO DOMINGO TOMALTEPEC"
+  },
+  {
+    "value": "SANTO DOMINGO TONALTEPEC"
+  },
+  {
+    "value": "SANTO DOMINGO XAGACIA"
+  },
+  {
+    "value": "SANTO DOMINGO YODOHINO"
+  },
+  {
+    "value": "SANTOS REYES YUCUNA"
+  },
+  {
+    "value": "SANTO TOMAS MAZALTEPEC"
+  },
+  {
+    "value": "SANTO TOMAS TAMAZULAPAN"
+  },
+  {
+    "value": "SAN VICENTE COATLAN"
+  },
+  {
+    "value": "SOLEDAD ETLA"
+  },
+  {
+    "value": "TANICHE"
+  },
+  {
+    "value": "TEOTITLAN DEL VALLE"
+  },
+  {
+    "value": "TEOTONGO"
+  },
+  {
+    "value": "TEPELMEME VILLA DE MORELOS"
+  },
+  {
+    "value": "SAN JERONIMO TLACOCHAHUAYA"
+  },
+  {
+    "value": "TLALIXTAC DE CABRERA"
+  },
+  {
+    "value": "TRINIDAD ZAACHILA"
+  },
+  {
+    "value": "VALERIO TRUJANO"
+  },
+  {
+    "value": "VILLA DIAZ ORDAZ"
+  },
+  {
+    "value": "MAGDALENA YODOCONO DE PORFIRIO DIAZ"
+  },
+  {
+    "value": "YUTANDUCHI DE GUERRERO"
+  },
+  {
+    "value": "CONCEPCION BUENAVISTA"
+  },
+  {
+    "value": "MAGDALENA MIXTEPEC"
+  },
+  {
+    "value": "MAGDALENA ZAHUATLAN"
+  },
+  {
+    "value": "SANTA CATARINA QUIOQUITANI"
+  },
+  {
+    "value": "SAN BALTAZAR YATZACHI EL BAJO"
+  },
+  {
+    "value": "SAN FRANCISCO CHINDUA"
+  },
+  {
+    "value": "SAN JUAN YATZONA"
+  },
+  {
+    "value": "SAN JUAN YUCUITA"
+  },
+  {
+    "value": "SAN MARTIN HUAMELULPAM"
+  },
+  {
+    "value": "SAN MIGUEL AHUEHUETITLAN"
+  },
+  {
+    "value": "SAN NICOLAS"
+  },
+  {
+    "value": "SANTO DOMINGO ROAYAGA"
+  },
+  {
+    "value": "TLACOTEPEC PLUMAS"
+  },
+  {
+    "value": "SAN FRANCISCO TEOPAN"
+  },
+  {
+    "value": "SAN AGUSTIN YATARENI"
+  },
+  {
+    "value": "SAN FRANCISCO SOLA"
+  },
+  {
+    "value": "SANTA CATARINA MINAS"
+  },
+  {
+    "value": "SANTA CRUZ AMILPAS"
+  },
+  {
+    "value": "SANTA MARIA GUELACE"
+  },
+  {
+    "value": "TEHUACAN"
+  },
+  {
+    "value": "SAN MARTIN TEXMELUCAN"
+  },
+  {
+    "value": "ATLIXCO"
+  },
+  {
+    "value": "PUEBLA"
+  },
+  {
+    "value": "SAN ANDRES CHOLULA"
+  },
+  {
+    "value": "ACAJETE"
+  },
+  {
+    "value": "AHUAZOTEPEC"
+  },
+  {
+    "value": "AHUEHUETITLA"
+  },
+  {
+    "value": "AJALPAN"
+  },
+  {
+    "value": "ALJOJUCA"
+  },
+  {
+    "value": "ALTEPEXI"
+  },
+  {
+    "value": "AMIXTLAN"
+  },
+  {
+    "value": "AQUIXTLA"
+  },
+  {
+    "value": "ATEMPAN"
+  },
+  {
+    "value": "ATEXCAL"
+  },
+  {
+    "value": "ATZITZIHUACAN"
+  },
+  {
+    "value": "ATZITZINTLA"
+  },
+  {
+    "value": "AXUTLA"
+  },
+  {
+    "value": "AYOTOXCO DE GUERRERO"
+  },
+  {
+    "value": "CALPAN"
+  },
+  {
+    "value": "CALTEPEC"
+  },
+  {
+    "value": "CAMOCUAUTLA"
+  },
+  {
+    "value": "CAXHUACAN"
+  },
+  {
+    "value": "COATEPEC"
+  },
+  {
+    "value": "COHUECAN"
+  },
+  {
+    "value": "COXCATLAN"
+  },
+  {
+    "value": "COYOMEAPAN"
+  },
+  {
+    "value": "CUAUTEMPAN"
+  },
+  {
+    "value": "CUAUTLANCINGO"
+  },
+  {
+    "value": "CUAYUCA DE ANDRADE"
+  },
+  {
+    "value": "CUETZALAN DEL PROGRESO"
+  },
+  {
+    "value": "CUYOACO"
+  },
+  {
+    "value": "CHALCHICOMULA DE SESMA"
+  },
+  {
+    "value": "CHIAUTZINGO"
+  },
+  {
+    "value": "CHICONCUAUTLA"
+  },
+  {
+    "value": "CHICHIQUILA"
+  },
+  {
+    "value": "CHIGNAHUAPAN"
+  },
+  {
+    "value": "CHIGNAUTLA"
+  },
+  {
+    "value": "CHILA"
+  },
+  {
+    "value": "CHILA DE LA SAL"
+  },
+  {
+    "value": "HONEY"
+  },
+  {
+    "value": "CHILCHOTLA"
+  },
+  {
+    "value": "CHINANTLA"
+  },
+  {
+    "value": "DOMINGO ARENAS"
+  },
+  {
+    "value": "EPATLAN"
+  },
+  {
+    "value": "ESPERANZA"
+  },
+  {
+    "value": "FRANCISCO Z. MENA"
+  },
+  {
+    "value": "GENERAL FELIPE ANGELES"
+  },
+  {
+    "value": "HERMENEGILDO GALEANA"
+  },
+  {
+    "value": "HUAQUECHULA"
+  },
+  {
+    "value": "HUATLATLAUCA"
+  },
+  {
+    "value": "HUAUCHINANGO"
+  },
+  {
+    "value": "HUEHUETLAN EL CHICO"
+  },
+  {
+    "value": "HUEJOTZINGO"
+  },
+  {
+    "value": "HUEYTAMALCO"
+  },
+  {
+    "value": "HUEYTLALPAN"
+  },
+  {
+    "value": "HUITZILAN DE SERDAN"
+  },
+  {
+    "value": "ATLEQUIZAYAN"
+  },
+  {
+    "value": "IXTACAMAXTITLAN"
+  },
+  {
+    "value": "IXTEPEC"
+  },
+  {
+    "value": "IZUCAR DE MATAMOROS"
+  },
+  {
+    "value": "JALPAN"
+  },
+  {
+    "value": "JOLALPAN"
+  },
+  {
+    "value": "JONOTLA"
+  },
+  {
+    "value": "JOPALA"
+  },
+  {
+    "value": "JUAN C. BONILLA"
+  },
+  {
+    "value": "JUAN N. MENDEZ"
+  },
+  {
+    "value": "LAFRAGUA"
+  },
+  {
+    "value": "LIBRES"
+  },
+  {
+    "value": "CAÑADA MORELOS"
+  },
+  {
+    "value": "NAUPAN"
+  },
+  {
+    "value": "NAUZONTLA"
+  },
+  {
+    "value": "NEALTICAN"
+  },
+  {
+    "value": "NOPALUCAN"
+  },
+  {
+    "value": "OCOYUCAN"
+  },
+  {
+    "value": "OLINTLA"
+  },
+  {
+    "value": "PAHUATLAN"
+  },
+  {
+    "value": "PETLALCINGO"
+  },
+  {
+    "value": "PIAXTLA"
+  },
+  {
+    "value": "QUECHOLAC"
+  },
+  {
+    "value": "QUIMIXTLAN"
+  },
+  {
+    "value": "SAN FELIPE TEPATLAN"
+  },
+  {
+    "value": "SAN GABRIEL CHILAC"
+  },
+  {
+    "value": "SAN GREGORIO ATZOMPA"
+  },
+  {
+    "value": "SAN JERONIMO TECUANIPAN"
+  },
+  {
+    "value": "SAN JERONIMO XAYACATLAN"
+  },
+  {
+    "value": "SAN JOSE CHIAPA"
+  },
+  {
+    "value": "SAN JOSE MIAHUATLAN"
+  },
+  {
+    "value": "SAN JUAN ATZOMPA"
+  },
+  {
+    "value": "SAN MATIAS TLALANCALECA"
+  },
+  {
+    "value": "SAN NICOLAS BUENOS AIRES"
+  },
+  {
+    "value": "SAN NICOLAS DE LOS RANCHOS"
+  },
+  {
+    "value": "SAN PABLO ANICANO"
+  },
+  {
+    "value": "SAN PEDRO CHOLULA"
+  },
+  {
+    "value": "SAN PEDRO YELOIXTLAHUACA"
+  },
+  {
+    "value": "SAN SALVADOR EL SECO"
+  },
+  {
+    "value": "SAN SEBASTIAN TLACOTEPEC"
+  },
+  {
+    "value": "SANTA CATARINA TLALTEMPAN"
+  },
+  {
+    "value": "SANTA INES AHUATEMPAN"
+  },
+  {
+    "value": "SANTO TOMAS HUEYOTLIPAN"
+  },
+  {
+    "value": "SOLTEPEC"
+  },
+  {
+    "value": "TECALI DE HERRERA"
+  },
+  {
+    "value": "TECAMACHALCO"
+  },
+  {
+    "value": "TECOMATLAN"
+  },
+  {
+    "value": "TEHUITZINGO"
+  },
+  {
+    "value": "TENAMPULCO"
+  },
+  {
+    "value": "TEOPANTLAN"
+  },
+  {
+    "value": "TEPANCO DE LOPEZ"
+  },
+  {
+    "value": "TEPATLAXCO DE HIDALGO"
+  },
+  {
+    "value": "TEPETZINTLA"
+  },
+  {
+    "value": "TEPEXI DE RODRIGUEZ"
+  },
+  {
+    "value": "TEPEYAHUALCO"
+  },
+  {
+    "value": "TETELA DE OCAMPO"
+  },
+  {
+    "value": "TEZIUTLAN"
+  },
+  {
+    "value": "TIANGUISMANALCO"
+  },
+  {
+    "value": "TLACOTEPEC DE BENITO JUAREZ"
+  },
+  {
+    "value": "TLACUILOTEPEC"
+  },
+  {
+    "value": "TLACHICHUCA"
+  },
+  {
+    "value": "TLAHUAPAN"
+  },
+  {
+    "value": "TLAOLA"
+  },
+  {
+    "value": "TLAPACOYA"
+  },
+  {
+    "value": "TLAPANALA"
+  },
+  {
+    "value": "TLATLAUQUITEPEC"
+  },
+  {
+    "value": "LA MAGDALENA TLATLAUQUITEPEC"
+  },
+  {
+    "value": "TLAXCO"
+  },
+  {
+    "value": "TOCHIMILCO"
+  },
+  {
+    "value": "TOCHTEPEC"
+  },
+  {
+    "value": "TOTOLTEPEC DE GUERRERO"
+  },
+  {
+    "value": "TULCINGO"
+  },
+  {
+    "value": "TUZAMAPAN DE GALEANA"
+  },
+  {
+    "value": "TZICATLACOYAN"
+  },
+  {
+    "value": "XICOTEPEC"
+  },
+  {
+    "value": "XICOTLAN"
+  },
+  {
+    "value": "XIUTETELCO"
+  },
+  {
+    "value": "XOCHIAPULCO"
+  },
+  {
+    "value": "YAONAHUAC"
+  },
+  {
+    "value": "YEHUALTEPEC"
+  },
+  {
+    "value": "ZACAPOAXTLA"
+  },
+  {
+    "value": "ZACATLAN"
+  },
+  {
+    "value": "ZAPOTITLAN"
+  },
+  {
+    "value": "ZAUTLA"
+  },
+  {
+    "value": "ZIHUATEUTLA"
+  },
+  {
+    "value": "ZONGOZOTLA"
+  },
+  {
+    "value": "ZOQUITLAN"
+  },
+  {
+    "value": "ZAPOTITLAN DE MENDEZ"
+  },
+  {
+    "value": "TEPEACA"
+  },
+  {
+    "value": "CHIETLA"
+  },
+  {
+    "value": "JUAN GALINDO"
+  },
+  {
+    "value": "ORIENTAL"
+  },
+  {
+    "value": "PALMAR DE BRAVO"
+  },
+  {
+    "value": "RAFAEL LARA GRAJALES"
+  },
+  {
+    "value": "SAN MIGUEL XOXTLA"
+  },
+  {
+    "value": "IXCAQUIXTLA"
+  },
+  {
+    "value": "ACATZINGO"
+  },
+  {
+    "value": "AMOZOC"
+  },
+  {
+    "value": "ACATENO"
+  },
+  {
+    "value": "TEPEOJUMA"
+  },
+  {
+    "value": "ZINACATEPEC"
+  },
+  {
+    "value": "LOS REYES DE JUAREZ"
+  },
+  {
+    "value": "MOLCAXAC"
+  },
+  {
+    "value": "ATOYATEMPAN"
+  },
+  {
+    "value": "SAN SALVADOR HUIXCOLOTLA"
+  },
+  {
+    "value": "NICOLAS BRAVO"
+  },
+  {
+    "value": "SANTIAGO MIAHUATLAN"
+  },
+  {
+    "value": "CORONANGO"
+  },
+  {
+    "value": "SAN SALVADOR EL VERDE"
+  },
+  {
+    "value": "ACTEOPAN"
+  },
+  {
+    "value": "AHUATLAN"
+  },
+  {
+    "value": "ALBINO ZERTUCHE"
+  },
+  {
+    "value": "ATZALA"
+  },
+  {
+    "value": "COATZINGO"
+  },
+  {
+    "value": "COHETZALA"
+  },
+  {
+    "value": "CUAPIAXTLA DE MADERO"
+  },
+  {
+    "value": "CUAUTINCHAN"
+  },
+  {
+    "value": "CHAPULCO"
+  },
+  {
+    "value": "CHIGMECATITLAN"
+  },
+  {
+    "value": "HUITZILTEPEC"
+  },
+  {
+    "value": "IXCAMILPA DE GUERRERO"
+  },
+  {
+    "value": "MAZAPILTEPEC DE JUAREZ"
+  },
+  {
+    "value": "MIXTLA"
+  },
+  {
+    "value": "SAN ANTONIO CAÑADA"
+  },
+  {
+    "value": "SAN DIEGO LA MESA TOCHIMILTZINGO"
+  },
+  {
+    "value": "SAN FELIPE TEOTLALCINGO"
+  },
+  {
+    "value": "SAN JUAN ATENCO"
+  },
+  {
+    "value": "SAN MARTIN TOTOLTEPEC"
+  },
+  {
+    "value": "SAN MIGUEL IXITLAN"
+  },
+  {
+    "value": "SANTA ISABEL CHOLULA"
+  },
+  {
+    "value": "HUEHUETLAN EL GRANDE"
+  },
+  {
+    "value": "TEOTLALCO"
+  },
+  {
+    "value": "TEPANGO DE RODRIGUEZ"
+  },
+  {
+    "value": "TEPEMAXALCO"
+  },
+  {
+    "value": "TEPEXCO"
+  },
+  {
+    "value": "TEPEYAHUALCO DE CUAUHTEMOC"
+  },
+  {
+    "value": "TETELES DE AVILA CASTILLO"
+  },
+  {
+    "value": "TILAPA"
+  },
+  {
+    "value": "TLALTENANGO"
+  },
+  {
+    "value": "TLANEPANTLA"
+  },
+  {
+    "value": "XAYACATLAN DE BRAVO"
+  },
+  {
+    "value": "XOCHILTEPEC"
+  },
+  {
+    "value": "XOCHITLAN DE VICENTE SUAREZ"
+  },
+  {
+    "value": "XOCHITLAN TODOS SANTOS"
+  },
+  {
+    "value": "ZACAPALA"
+  },
+  {
+    "value": "ZOQUIAPAN"
+  },
+  {
+    "value": "SOLIDARIDAD"
+  },
+  {
+    "value": "COZUMEL"
+  },
+  {
+    "value": "OTHON P. BLANCO"
+  },
+  {
+    "value": "FELIPE CARRILLO PUERTO"
+  },
+  {
+    "value": "JOSE MARIA MORELOS"
+  },
+  {
+    "value": "ISLA MUJERES"
+  },
+  {
+    "value": "TULUM"
+  },
+  {
+    "value": "PUERTO MORELOS"
+  },
+  {
+    "value": "BACALAR"
+  },
+  {
+    "value": "QUERETARO"
+  },
+  {
+    "value": "EL MARQUES"
+  },
+  {
+    "value": "AMEALCO DE BONFIL"
+  },
+  {
+    "value": "CADEREYTA DE MONTES"
+  },
+  {
+    "value": "COLON"
+  },
+  {
+    "value": "CORREGIDORA"
+  },
+  {
+    "value": "EZEQUIEL MONTES"
+  },
+  {
+    "value": "HUIMILPAN"
+  },
+  {
+    "value": "PEDRO ESCOBEDO"
+  },
+  {
+    "value": "SAN JOAQUIN"
+  },
+  {
+    "value": "TEQUISQUIAPAN"
+  },
+  {
+    "value": "JALPAN DE SERRA"
+  },
+  {
+    "value": "PINAL DE AMOLES"
+  },
+  {
+    "value": "ARROYO SECO"
+  },
+  {
+    "value": "LANDA DE MATAMOROS"
+  },
+  {
+    "value": "PEÑAMILLER"
+  },
+  {
+    "value": "MAZATLAN"
+  },
+  {
+    "value": "ESCUINAPA"
+  },
+  {
+    "value": "AHOME"
+  },
+  {
+    "value": "EL FUERTE"
+  },
+  {
+    "value": "CHOIX"
+  },
+  {
+    "value": "GUASAVE"
+  },
+  {
+    "value": "SINALOA"
+  },
+  {
+    "value": "MOCORITO"
+  },
+  {
+    "value": "SALVADOR ALVARADO"
+  },
+  {
+    "value": "ANGOSTURA"
+  },
+  {
+    "value": "BADIRAGUATO"
+  },
+  {
+    "value": "NAVOLATO"
+  },
+  {
+    "value": "CULIACAN"
+  },
+  {
+    "value": "COSALA"
+  },
+  {
+    "value": "ELOTA"
+  },
+  {
+    "value": "SAN IGNACIO"
+  },
+  {
+    "value": "CONCORDIA"
+  },
+  {
+    "value": "RIOVERDE"
+  },
+  {
+    "value": "CIUDAD VALLES"
+  },
+  {
+    "value": "TAMUIN"
+  },
+  {
+    "value": "MATEHUALA"
+  },
+  {
+    "value": "SAN LUIS POTOSI"
+  },
+  {
+    "value": "CIUDAD DEL MAIZ"
+  },
+  {
+    "value": "TAMAZUNCHALE"
+  },
+  {
+    "value": "AHUALULCO"
+  },
+  {
+    "value": "ALAQUINES"
+  },
+  {
+    "value": "AQUISMON"
+  },
+  {
+    "value": "ARMADILLO DE LOS INFANTE"
+  },
+  {
+    "value": "CARDENAS"
+  },
+  {
+    "value": "CATORCE"
+  },
+  {
+    "value": "CEDRAL"
+  },
+  {
+    "value": "CERRITOS"
+  },
+  {
+    "value": "CERRO DE SAN PEDRO"
+  },
+  {
+    "value": "EL NARANJO"
+  },
+  {
+    "value": "CIUDAD FERNANDEZ"
+  },
+  {
+    "value": "TANCANHUITZ"
+  },
+  {
+    "value": "CHARCAS"
+  },
+  {
+    "value": "GUADALCAZAR"
+  },
+  {
+    "value": "HUEHUETLAN"
+  },
+  {
+    "value": "MEXQUITIC DE CARMONA"
+  },
+  {
+    "value": "MOCTEZUMA"
+  },
+  {
+    "value": "SALINAS"
+  },
+  {
+    "value": "SAN ANTONIO"
+  },
+  {
+    "value": "SAN CIRO DE ACOSTA"
+  },
+  {
+    "value": "SAN MARTIN CHALCHICUAUTLA"
+  },
+  {
+    "value": "SAN NICOLAS TOLENTINO"
+  },
+  {
+    "value": "SANTA MARIA DEL RIO"
+  },
+  {
+    "value": "SANTO DOMINGO"
+  },
+  {
+    "value": "SAN VICENTE TANCUAYALAB"
+  },
+  {
+    "value": "SOLEDAD DE GRACIANO SANCHEZ"
+  },
+  {
+    "value": "TAMASOPO"
+  },
+  {
+    "value": "MATLAPA"
+  },
+  {
+    "value": "TAMPACAN"
+  },
+  {
+    "value": "TAMPAMOLON CORONA"
+  },
+  {
+    "value": "TANLAJAS"
+  },
+  {
+    "value": "TANQUIAN DE ESCOBEDO"
+  },
+  {
+    "value": "VANEGAS"
+  },
+  {
+    "value": "VENADO"
+  },
+  {
+    "value": "VILLA DE ARRIAGA"
+  },
+  {
+    "value": "VILLA DE GUADALUPE"
+  },
+  {
+    "value": "VILLA DE RAMOS"
+  },
+  {
+    "value": "VILLA DE REYES"
+  },
+  {
+    "value": "VILLA JUAREZ"
+  },
+  {
+    "value": "AXTLA DE TERRAZAS"
+  },
+  {
+    "value": "XILITLA"
+  },
+  {
+    "value": "VILLA DE ARISTA"
+  },
+  {
+    "value": "EBANO"
+  },
+  {
+    "value": "TIERRA NUEVA"
+  },
+  {
+    "value": "VILLA DE LA PAZ"
+  },
+  {
+    "value": "NOGALES"
+  },
+  {
+    "value": "HERMOSILLO"
+  },
+  {
+    "value": "BACUM"
+  },
+  {
+    "value": "ETCHOJOA"
+  },
+  {
+    "value": "HUATABAMPO"
+  },
+  {
+    "value": "ACONCHI"
+  },
+  {
+    "value": "AGUA PRIETA"
+  },
+  {
+    "value": "ALAMOS"
+  },
+  {
+    "value": "ALTAR"
+  },
+  {
+    "value": "BENJAMIN HILL"
+  },
+  {
+    "value": "CABORCA"
+  },
+  {
+    "value": "CAJEME"
+  },
+  {
+    "value": "CANANEA"
+  },
+  {
+    "value": "CUMPAS"
+  },
+  {
+    "value": "EMPALME"
+  },
+  {
+    "value": "FRONTERAS"
+  },
+  {
+    "value": "GUAYMAS"
+  },
+  {
+    "value": "SAN IGNACIO RIO MUERTO"
+  },
+  {
+    "value": "NACO"
+  },
+  {
+    "value": "NACOZARI DE GARCIA"
+  },
+  {
+    "value": "NAVOJOA"
+  },
+  {
+    "value": "PITIQUITO"
+  },
+  {
+    "value": "PUERTO PEÑASCO"
+  },
+  {
+    "value": "SAHUARIPA"
+  },
+  {
+    "value": "SAN LUIS RIO COLORADO"
+  },
+  {
+    "value": "URES"
+  },
+  {
+    "value": "GENERAL PLUTARCO ELIAS CALLES"
+  },
+  {
+    "value": "CARBO"
+  },
+  {
+    "value": "IMURIS"
+  },
+  {
+    "value": "HUASABAS"
+  },
+  {
+    "value": "HUEPAC"
+  },
+  {
+    "value": "GRANADOS"
+  },
+  {
+    "value": "ARIVECHI"
+  },
+  {
+    "value": "ARIZPE"
+  },
+  {
+    "value": "ATIL"
+  },
+  {
+    "value": "BACADEHUACHI"
+  },
+  {
+    "value": "BACANORA"
+  },
+  {
+    "value": "BACERAC"
+  },
+  {
+    "value": "BACOACHI"
+  },
+  {
+    "value": "BANAMICHI"
+  },
+  {
+    "value": "BAVIACORA"
+  },
+  {
+    "value": "BAVISPE"
+  },
+  {
+    "value": "LA COLORADA"
+  },
+  {
+    "value": "CUCURPE"
+  },
+  {
+    "value": "DIVISADEROS"
+  },
+  {
+    "value": "HUACHINERA"
+  },
+  {
+    "value": "NACORI CHICO"
+  },
+  {
+    "value": "ONAVAS"
+  },
+  {
+    "value": "OPODEPE"
+  },
+  {
+    "value": "OQUITOA"
+  },
+  {
+    "value": "QUIRIEGO"
+  },
+  {
+    "value": "SAN FELIPE DE JESUS"
+  },
+  {
+    "value": "SAN JAVIER"
+  },
+  {
+    "value": "SAN MIGUEL DE HORCASITAS"
+  },
+  {
+    "value": "SAN PEDRO DE LA CUEVA"
+  },
+  {
+    "value": "SANTA CRUZ"
+  },
+  {
+    "value": "SARIC"
+  },
+  {
+    "value": "SOYOPA"
+  },
+  {
+    "value": "SUAQUI GRANDE"
+  },
+  {
+    "value": "TEPACHE"
+  },
+  {
+    "value": "TRINCHERAS"
+  },
+  {
+    "value": "TUBUTAMA"
+  },
+  {
+    "value": "VILLA PESQUEIRA"
+  },
+  {
+    "value": "YECORA"
+  },
+  {
+    "value": "CENTRO"
+  },
+  {
+    "value": "BALANCAN"
+  },
+  {
+    "value": "CENTLA"
+  },
+  {
+    "value": "COMALCALCO"
+  },
+  {
+    "value": "CUNDUACAN"
+  },
+  {
+    "value": "HUIMANGUILLO"
+  },
+  {
+    "value": "JALPA DE MENDEZ"
+  },
+  {
+    "value": "JONUTA"
+  },
+  {
+    "value": "MACUSPANA"
+  },
+  {
+    "value": "PARAISO"
+  },
+  {
+    "value": "TACOTALPA"
+  },
+  {
+    "value": "TEAPA"
+  },
+  {
+    "value": "TENOSIQUE"
+  },
+  {
+    "value": "NACAJUCA"
+  },
+  {
+    "value": "JALAPA"
+  },
+  {
+    "value": "TLAXCALA"
+  },
+  {
+    "value": "HUAMANTLA"
+  },
+  {
+    "value": "CALPULALPAN"
+  },
+  {
+    "value": "SAN PABLO DEL MONTE"
+  },
+  {
+    "value": "AMAXAC DE GUERRERO"
+  },
+  {
+    "value": "APETATITLAN DE ANTONIO CARVAJAL"
+  },
+  {
+    "value": "APIZACO"
+  },
+  {
+    "value": "CHIAUTEMPAN"
+  },
+  {
+    "value": "NANACAMILPA DE MARIANO ARISTA"
+  },
+  {
+    "value": "SANTA CRUZ TLAXCALA"
+  },
+  {
+    "value": "TEOLOCHOLCO"
+  },
+  {
+    "value": "XICOHTZINCO"
+  },
+  {
+    "value": "PAPALOTLA DE XICOHTENCATL"
+  },
+  {
+    "value": "ZACATELCO"
+  },
+  {
+    "value": "IXTACUIXTLA DE MARIANO MATAMOROS"
+  },
+  {
+    "value": "SANTA ISABEL XILOXOXTLA"
+  },
+  {
+    "value": "NATIVITAS"
+  },
+  {
+    "value": "SAN FRANCISCO TETLANOHCAN"
+  },
+  {
+    "value": "TETLATLAHUCA"
+  },
+  {
+    "value": "LA MAGDALENA TLALTELULCO"
+  },
+  {
+    "value": "XALOZTOC"
+  },
+  {
+    "value": "YAUHQUEMEHCAN"
+  },
+  {
+    "value": "TEPETITLA DE LARDIZABAL"
+  },
+  {
+    "value": "TOTOLAC"
+  },
+  {
+    "value": "EL CARMEN TEQUEXQUITLA"
+  },
+  {
+    "value": "CONTLA DE JUAN CUAMATZI"
+  },
+  {
+    "value": "TETLA DE LA SOLIDARIDAD"
+  },
+  {
+    "value": "SANTA CATARINA AYOMETLA"
+  },
+  {
+    "value": "ATLANGATEPEC"
+  },
+  {
+    "value": "ATLTZAYANCA"
+  },
+  {
+    "value": "CUAPIAXTLA"
+  },
+  {
+    "value": "CUAXOMULCO"
+  },
+  {
+    "value": "MUÑOZ DE DOMINGO ARENAS"
+  },
+  {
+    "value": "ESPAÑITA"
+  },
+  {
+    "value": "HUEYOTLIPAN"
+  },
+  {
+    "value": "IXTENCO"
+  },
+  {
+    "value": "MAZATECOCHCO DE JOSE MARIA MORELOS"
+  },
+  {
+    "value": "SANCTORUM DE LAZARO CARDENAS"
+  },
+  {
+    "value": "ACUAMANALA DE MIGUEL HIDALGO"
+  },
+  {
+    "value": "PANOTLA"
+  },
+  {
+    "value": "TEPEYANCO"
+  },
+  {
+    "value": "TERRENATE"
+  },
+  {
+    "value": "TOCATLAN"
+  },
+  {
+    "value": "ZILTLALTEPEC DE TRINIDAD SANCHEZ SANTOS"
+  },
+  {
+    "value": "TZOMPANTEPEC"
+  },
+  {
+    "value": "XALTOCAN"
+  },
+  {
+    "value": "SAN DAMIAN TEXOLOC"
+  },
+  {
+    "value": "SAN JERONIMO ZACUALPAN"
+  },
+  {
+    "value": "SAN JOSE TEACALCO"
+  },
+  {
+    "value": "SAN JUAN HUACTZINCO"
+  },
+  {
+    "value": "SAN LORENZO AXOCOMANITLA"
+  },
+  {
+    "value": "SAN LUCAS TECOPILCO"
+  },
+  {
+    "value": "SANTA ANA NOPALUCAN"
+  },
+  {
+    "value": "SANTA APOLONIA TEACALCO"
+  },
+  {
+    "value": "SANTA CRUZ QUILEHTLA"
+  },
+  {
+    "value": "REYNOSA"
+  },
+  {
+    "value": "GUSTAVO DIAZ ORDAZ"
+  },
+  {
+    "value": "GONZALEZ"
+  },
+  {
+    "value": "CIUDAD MADERO"
+  },
+  {
+    "value": "EL MANTE"
+  },
+  {
+    "value": "MIGUEL ALEMAN"
+  },
+  {
+    "value": "NUEVO LAREDO"
+  },
+  {
+    "value": "RIO BRAVO"
+  },
+  {
+    "value": "SOTO LA MARINA"
+  },
+  {
+    "value": "TAMPICO"
+  },
+  {
+    "value": "VALLE HERMOSO"
+  },
+  {
+    "value": "LLERA"
+  },
+  {
+    "value": "XICOTENCATL"
+  },
+  {
+    "value": "ALTAMIRA"
+  },
+  {
+    "value": "MIER"
+  },
+  {
+    "value": "ANTIGUO MORELOS"
+  },
+  {
+    "value": "BURGOS"
+  },
+  {
+    "value": "CASAS"
+  },
+  {
+    "value": "CRUILLAS"
+  },
+  {
+    "value": "GÜEMEZ"
+  },
+  {
+    "value": "JAUMAVE"
+  },
+  {
+    "value": "MAINERO"
+  },
+  {
+    "value": "MENDEZ"
+  },
+  {
+    "value": "MIQUIHUANA"
+  },
+  {
+    "value": "PADILLA"
+  },
+  {
+    "value": "PALMILLAS"
+  },
+  {
+    "value": "SAN CARLOS"
+  },
+  {
+    "value": "TULA"
+  },
+  {
+    "value": "NUEVO MORELOS"
+  },
+  {
+    "value": "XALAPA"
+  },
+  {
+    "value": "POZA RICA DE HIDALGO"
+  },
+  {
+    "value": "CAMERINO Z. MENDOZA"
+  },
+  {
+    "value": "ORIZABA"
+  },
+  {
+    "value": "TATAHUICAPAN DE JUAREZ"
+  },
+  {
+    "value": "VERACRUZ"
+  },
+  {
+    "value": "ACAYUCAN"
+  },
+  {
+    "value": "ACULTZINGO"
+  },
+  {
+    "value": "CAMARON DE TEJEDA"
+  },
+  {
+    "value": "ALPATLAHUAC"
+  },
+  {
+    "value": "ALTO LUCERO DE GUTIERREZ BARRIOS"
+  },
+  {
+    "value": "ALTOTONGA"
+  },
+  {
+    "value": "ALVARADO"
+  },
+  {
+    "value": "NARANJOS AMATLAN"
+  },
+  {
+    "value": "AMATLAN DE LOS REYES"
+  },
+  {
+    "value": "ANGEL R. CABADA"
+  },
+  {
+    "value": "ATLAHUILCO"
+  },
+  {
+    "value": "ATZACAN"
+  },
+  {
+    "value": "ATZALAN"
+  },
+  {
+    "value": "AYAHUALULCO"
+  },
+  {
+    "value": "CALCAHUALCO"
+  },
+  {
+    "value": "CARRILLO PUERTO"
+  },
+  {
+    "value": "CATEMACO"
+  },
+  {
+    "value": "CAZONES DE HERRERA"
+  },
+  {
+    "value": "CITLALTEPETL"
+  },
+  {
+    "value": "COAHUITLAN"
+  },
+  {
+    "value": "COATZACOALCOS"
+  },
+  {
+    "value": "COATZINTLA"
+  },
+  {
+    "value": "COMAPA"
+  },
+  {
+    "value": "CORDOBA"
+  },
+  {
+    "value": "COSAMALOAPAN DE CARPIO"
+  },
+  {
+    "value": "COSAUTLAN DE CARVAJAL"
+  },
+  {
+    "value": "COSCOMATEPEC"
+  },
+  {
+    "value": "COSOLEACAQUE"
+  },
+  {
+    "value": "COXQUIHUI"
+  },
+  {
+    "value": "COYUTLA"
+  },
+  {
+    "value": "CHALMA"
+  },
+  {
+    "value": "CHICONAMEL"
+  },
+  {
+    "value": "CHICONQUIACO"
+  },
+  {
+    "value": "CHICONTEPEC"
+  },
+  {
+    "value": "CHINAMECA"
+  },
+  {
+    "value": "LAS CHOAPAS"
+  },
+  {
+    "value": "CHOCAMAN"
+  },
+  {
+    "value": "CHONTLA"
+  },
+  {
+    "value": "ESPINAL"
+  },
+  {
+    "value": "FILOMENO MATA"
+  },
+  {
+    "value": "GUTIERREZ ZAMORA"
+  },
+  {
+    "value": "HIDALGOTITLAN"
+  },
+  {
+    "value": "UXPANAPA"
+  },
+  {
+    "value": "HUATUSCO"
+  },
+  {
+    "value": "HUAYACOCOTLA"
+  },
+  {
+    "value": "HUEYAPAN DE OCAMPO"
+  },
+  {
+    "value": "SOTEAPAN"
+  },
+  {
+    "value": "IGNACIO DE LA LLAVE"
+  },
+  {
+    "value": "ILAMATLAN"
+  },
+  {
+    "value": "ISLA"
+  },
+  {
+    "value": "IXCATEPEC"
+  },
+  {
+    "value": "IXHUACAN DE LOS REYES"
+  },
+  {
+    "value": "IXHUATLAN DEL CAFE"
+  },
+  {
+    "value": "IXHUATLANCILLO"
+  },
+  {
+    "value": "IXHUATLAN DE MADERO"
+  },
+  {
+    "value": "IXTACZOQUITLAN"
+  },
+  {
+    "value": "JALACINGO"
+  },
+  {
+    "value": "JALCOMULCO"
+  },
+  {
+    "value": "JALTIPAN"
+  },
+  {
+    "value": "JESUS CARRANZA"
+  },
+  {
+    "value": "XICO"
+  },
+  {
+    "value": "JUAN RODRIGUEZ CLARA"
+  },
+  {
+    "value": "JUCHIQUE DE FERRER"
+  },
+  {
+    "value": "MALTRATA"
+  },
+  {
+    "value": "MANLIO FABIO ALTAMIRANO"
+  },
+  {
+    "value": "MARIANO ESCOBEDO"
+  },
+  {
+    "value": "MECATLAN"
+  },
+  {
+    "value": "MECAYAPAN"
+  },
+  {
+    "value": "MISANTLA"
+  },
+  {
+    "value": "MIXTLA DE ALTAMIRANO"
+  },
+  {
+    "value": "MOLOACAN"
+  },
+  {
+    "value": "NAOLINCO"
+  },
+  {
+    "value": "NARANJAL"
+  },
+  {
+    "value": "NAUTLA"
+  },
+  {
+    "value": "OMEALCA"
+  },
+  {
+    "value": "OZULUAMA DE MASCAREÑAS"
+  },
+  {
+    "value": "PAJAPAN"
+  },
+  {
+    "value": "PANUCO"
+  },
+  {
+    "value": "PAPANTLA"
+  },
+  {
+    "value": "PASO DEL MACHO"
+  },
+  {
+    "value": "PASO DE OVEJAS"
+  },
+  {
+    "value": "LA PERLA"
+  },
+  {
+    "value": "PEROTE"
+  },
+  {
+    "value": "PLATON SANCHEZ"
+  },
+  {
+    "value": "PLAYA VICENTE"
+  },
+  {
+    "value": "SANTIAGO SOCHIAPAN"
+  },
+  {
+    "value": "PUEBLO VIEJO"
+  },
+  {
+    "value": "PUENTE NACIONAL"
+  },
+  {
+    "value": "RAFAEL DELGADO"
+  },
+  {
+    "value": "SAN ANDRES TUXTLA"
+  },
+  {
+    "value": "SAN JUAN EVANGELISTA"
+  },
+  {
+    "value": "SANTIAGO TUXTLA"
+  },
+  {
+    "value": "SAYULA DE ALEMAN"
+  },
+  {
+    "value": "SOCONUSCO"
+  },
+  {
+    "value": "SOLEDAD ATZOMPA"
+  },
+  {
+    "value": "SOLEDAD DE DOBLADO"
+  },
+  {
+    "value": "TAMALIN"
+  },
+  {
+    "value": "TAMIAHUA"
+  },
+  {
+    "value": "TAMPICO ALTO"
+  },
+  {
+    "value": "TANCOCO"
+  },
+  {
+    "value": "TANTIMA"
+  },
+  {
+    "value": "TANTOYUCA"
+  },
+  {
+    "value": "CASTILLO DE TEAYO"
+  },
+  {
+    "value": "TECOLUTLA"
+  },
+  {
+    "value": "TEHUIPANGO"
+  },
+  {
+    "value": "ALAMO TEMAPACHE"
+  },
+  {
+    "value": "TEMPOAL"
+  },
+  {
+    "value": "TENOCHTITLAN"
+  },
+  {
+    "value": "TEPATLAXCO"
+  },
+  {
+    "value": "TEPETLAN"
+  },
+  {
+    "value": "JOSE AZUETA"
+  },
+  {
+    "value": "TEXCATEPEC"
+  },
+  {
+    "value": "TEXHUACAN"
+  },
+  {
+    "value": "TEXISTEPEC"
+  },
+  {
+    "value": "TEZONAPA"
+  },
+  {
+    "value": "TIHUATLAN"
+  },
+  {
+    "value": "TLACOTALPAN"
+  },
+  {
+    "value": "TLACHICHILCO"
+  },
+  {
+    "value": "TLALIXCOYAN"
+  },
+  {
+    "value": "TLAPACOYAN"
+  },
+  {
+    "value": "TLAQUILPA"
+  },
+  {
+    "value": "TONAYAN"
+  },
+  {
+    "value": "TOTUTLA"
+  },
+  {
+    "value": "VEGA DE ALATORRE"
+  },
+  {
+    "value": "YECUATLA"
+  },
+  {
+    "value": "ZENTLA"
+  },
+  {
+    "value": "ZONGOLICA"
+  },
+  {
+    "value": "ZONTECOMATLAN DE LOPEZ Y FUENTES"
+  },
+  {
+    "value": "ZOZOCOLCO DE HIDALGO"
+  },
+  {
+    "value": "AGUA DULCE"
+  },
+  {
+    "value": "EL HIGO"
+  },
+  {
+    "value": "TRES VALLES"
+  },
+  {
+    "value": "BANDERILLA"
+  },
+  {
+    "value": "RIO BLANCO"
+  },
+  {
+    "value": "CARLOS A. CARRILLO"
+  },
+  {
+    "value": "LA ANTIGUA"
+  },
+  {
+    "value": "BOCA DEL RIO"
+  },
+  {
+    "value": "URSULO GALVAN"
+  },
+  {
+    "value": "ACULA"
+  },
+  {
+    "value": "AMATITLAN"
+  },
+  {
+    "value": "CERRO AZUL"
+  },
+  {
+    "value": "COTAXTLA"
+  },
+  {
+    "value": "CUICHAPA"
+  },
+  {
+    "value": "CUITLAHUAC"
+  },
+  {
+    "value": "CHACALTIANGUIS"
+  },
+  {
+    "value": "IXMATLAHUACAN"
+  },
+  {
+    "value": "LERDO DE TEJADA"
+  },
+  {
+    "value": "MARTINEZ DE LA TORRE"
+  },
+  {
+    "value": "SAN RAFAEL"
+  },
+  {
+    "value": "MEDELLIN DE BRAVO"
+  },
+  {
+    "value": "OTATITLAN"
+  },
+  {
+    "value": "SALTABARRANCA"
+  },
+  {
+    "value": "TLACOJALPAN"
+  },
+  {
+    "value": "TUXTILLA"
+  },
+  {
+    "value": "YANGA"
+  },
+  {
+    "value": "NANCHITAL DE LAZARO CARDENAS DEL RIO"
+  },
+  {
+    "value": "OLUTA"
+  },
+  {
+    "value": "FORTIN"
+  },
+  {
+    "value": "LAS VIGAS DE RAMIREZ"
+  },
+  {
+    "value": "APAZAPAN"
+  },
+  {
+    "value": "ASTACINGA"
+  },
+  {
+    "value": "TLALTETELA"
+  },
+  {
+    "value": "COACOATZINTLA"
+  },
+  {
+    "value": "COETZALA"
+  },
+  {
+    "value": "COLIPA"
+  },
+  {
+    "value": "CHINAMPA DE GOROSTIZA"
+  },
+  {
+    "value": "CHUMATLAN"
+  },
+  {
+    "value": "HUILOAPAN DE CUAUHTEMOC"
+  },
+  {
+    "value": "IXHUATLAN DEL SURESTE"
+  },
+  {
+    "value": "JAMAPA"
+  },
+  {
+    "value": "LANDERO Y COSS"
+  },
+  {
+    "value": "MIAHUATLAN"
+  },
+  {
+    "value": "LAS MINAS"
+  },
+  {
+    "value": "OTEAPAN"
+  },
+  {
+    "value": "RAFAEL LUCIO"
+  },
+  {
+    "value": "SAN ANDRES TENEJAPAN"
+  },
+  {
+    "value": "SOCHIAPA"
+  },
+  {
+    "value": "TATATILA"
+  },
+  {
+    "value": "TENAMPA"
+  },
+  {
+    "value": "TEOCELO"
+  },
+  {
+    "value": "TLACOLULAN"
+  },
+  {
+    "value": "TLACOTEPEC DE MEJIA"
+  },
+  {
+    "value": "TLALNELHUAYOCAN"
+  },
+  {
+    "value": "TLILAPAN"
+  },
+  {
+    "value": "VILLA ALDAMA"
+  },
+  {
+    "value": "MERIDA"
+  },
+  {
+    "value": "VALLADOLID"
+  },
+  {
+    "value": "CONKAL"
+  },
+  {
+    "value": "ABALA"
+  },
+  {
+    "value": "ACANCEH"
+  },
+  {
+    "value": "AKIL"
+  },
+  {
+    "value": "BACA"
+  },
+  {
+    "value": "CACALCHEN"
+  },
+  {
+    "value": "CALOTMUL"
+  },
+  {
+    "value": "CANSAHCAB"
+  },
+  {
+    "value": "CENOTILLO"
+  },
+  {
+    "value": "CUZAMA"
+  },
+  {
+    "value": "CHANKOM"
+  },
+  {
+    "value": "CHEMAX"
+  },
+  {
+    "value": "CHICXULUB PUEBLO"
+  },
+  {
+    "value": "CHICHIMILA"
+  },
+  {
+    "value": "CHIKINDZONOT"
+  },
+  {
+    "value": "CHOCHOLA"
+  },
+  {
+    "value": "DZEMUL"
+  },
+  {
+    "value": "DZIDZANTUN"
+  },
+  {
+    "value": "DZILAM DE BRAVO"
+  },
+  {
+    "value": "DZILAM GONZALEZ"
+  },
+  {
+    "value": "ESPITA"
+  },
+  {
+    "value": "HALACHO"
+  },
+  {
+    "value": "HOCABA"
+  },
+  {
+    "value": "HOCTUN"
+  },
+  {
+    "value": "HOMUN"
+  },
+  {
+    "value": "HUHI"
+  },
+  {
+    "value": "HUNUCMA"
+  },
+  {
+    "value": "IXIL"
+  },
+  {
+    "value": "IZAMAL"
+  },
+  {
+    "value": "KAUA"
+  },
+  {
+    "value": "KINCHIL"
+  },
+  {
+    "value": "KOPOMA"
+  },
+  {
+    "value": "MAMA"
+  },
+  {
+    "value": "MANI"
+  },
+  {
+    "value": "MAXCANU"
+  },
+  {
+    "value": "MAYAPAN"
+  },
+  {
+    "value": "MOTUL"
+  },
+  {
+    "value": "MUNA"
+  },
+  {
+    "value": "OPICHEN"
+  },
+  {
+    "value": "OXKUTZCAB"
+  },
+  {
+    "value": "PANABA"
+  },
+  {
+    "value": "PETO"
+  },
+  {
+    "value": "QUINTANA ROO"
+  },
+  {
+    "value": "SACALUM"
+  },
+  {
+    "value": "SEYE"
+  },
+  {
+    "value": "SINANCHE"
+  },
+  {
+    "value": "SUMA"
+  },
+  {
+    "value": "TAHMEK"
+  },
+  {
+    "value": "TECOH"
+  },
+  {
+    "value": "TEKAL DE VENEGAS"
+  },
+  {
+    "value": "TEKANTO"
+  },
+  {
+    "value": "TEKAX"
+  },
+  {
+    "value": "TEKIT"
+  },
+  {
+    "value": "TELCHAC PUEBLO"
+  },
+  {
+    "value": "TELCHAC PUERTO"
+  },
+  {
+    "value": "TEMAX"
+  },
+  {
+    "value": "TEMOZON"
+  },
+  {
+    "value": "TEPAKAN"
+  },
+  {
+    "value": "TETIZ"
+  },
+  {
+    "value": "TIMUCUY"
+  },
+  {
+    "value": "TINUM"
+  },
+  {
+    "value": "TIXCACALCUPUL"
+  },
+  {
+    "value": "TIXKOKOB"
+  },
+  {
+    "value": "TIXMEHUAC"
+  },
+  {
+    "value": "TIXPEHUAL"
+  },
+  {
+    "value": "TIZIMIN"
+  },
+  {
+    "value": "TZUCACAB"
+  },
+  {
+    "value": "XOCCHEL"
+  },
+  {
+    "value": "YAXCABA"
+  },
+  {
+    "value": "RIO LAGARTOS"
+  },
+  {
+    "value": "KANASIN"
+  },
+  {
+    "value": "SAMAHIL"
+  },
+  {
+    "value": "TICUL"
+  },
+  {
+    "value": "UMAN"
+  },
+  {
+    "value": "DZITAS"
+  },
+  {
+    "value": "BOKOBA"
+  },
+  {
+    "value": "BUCTZOTZ"
+  },
+  {
+    "value": "CANTAMAYEC"
+  },
+  {
+    "value": "CHUMAYEL"
+  },
+  {
+    "value": "CELESTUN"
+  },
+  {
+    "value": "CUNCUNUL"
+  },
+  {
+    "value": "CHACSINKIN"
+  },
+  {
+    "value": "CHAPAB"
+  },
+  {
+    "value": "DZAN"
+  },
+  {
+    "value": "DZONCAUICH"
+  },
+  {
+    "value": "KANTUNIL"
+  },
+  {
+    "value": "MOCOCHA"
+  },
+  {
+    "value": "MUXUPIP"
+  },
+  {
+    "value": "SANAHCAT"
+  },
+  {
+    "value": "SANTA ELENA"
+  },
+  {
+    "value": "SOTUTA"
+  },
+  {
+    "value": "SUCILA"
+  },
+  {
+    "value": "SUDZAL"
+  },
+  {
+    "value": "TAHDZIU"
+  },
+  {
+    "value": "TEABO"
+  },
+  {
+    "value": "TEKOM"
+  },
+  {
+    "value": "TEYA"
+  },
+  {
+    "value": "TUNKAS"
+  },
+  {
+    "value": "UAYMA"
+  },
+  {
+    "value": "UCU"
+  },
+  {
+    "value": "YAXKUKUL"
+  },
+  {
+    "value": "YOBAIN"
+  },
+  {
+    "value": "ZACATECAS"
+  },
+  {
+    "value": "NOCHISTLAN DE MEJIA"
+  },
+  {
+    "value": "JEREZ"
+  },
+  {
+    "value": "VILLANUEVA"
+  },
+  {
+    "value": "MOMAX"
+  },
+  {
+    "value": "FRESNILLO"
+  },
+  {
+    "value": "MIGUEL AUZA"
+  },
+  {
+    "value": "CALERA"
+  },
+  {
+    "value": "TEUL DE GONZALEZ ORTEGA"
+  },
+  {
+    "value": "MONTE ESCOBEDO"
+  },
+  {
+    "value": "TLALTENANGO DE SANCHEZ ROMAN"
+  },
+  {
+    "value": "JUAN ALDAMA"
+  },
+  {
+    "value": "APOZOL"
+  },
+  {
+    "value": "CAÑITAS DE FELIPE PESCADOR"
+  },
+  {
+    "value": "CONCEPCION DEL ORO"
+  },
+  {
+    "value": "CHALCHIHUITES"
+  },
+  {
+    "value": "GENARO CODINA"
+  },
+  {
+    "value": "GENERAL ENRIQUE ESTRADA"
+  },
+  {
+    "value": "GENERAL FRANCISCO R. MURGUIA"
+  },
+  {
+    "value": "EL PLATEADO DE JOAQUIN AMARO"
+  },
+  {
+    "value": "GENERAL PANFILO NATERA"
+  },
+  {
+    "value": "TRANCOSO"
+  },
+  {
+    "value": "HUANUSCO"
+  },
+  {
+    "value": "JALPA"
+  },
+  {
+    "value": "JIMENEZ DEL TEUL"
+  },
+  {
+    "value": "JUCHIPILA"
+  },
+  {
+    "value": "LUIS MOYA"
+  },
+  {
+    "value": "MAZAPIL"
+  },
+  {
+    "value": "MOYAHUA DE ESTRADA"
+  },
+  {
+    "value": "NORIA DE ANGELES"
+  },
+  {
+    "value": "OJOCALIENTE"
+  },
+  {
+    "value": "PINOS"
+  },
+  {
+    "value": "RIO GRANDE"
+  },
+  {
+    "value": "SAIN ALTO"
+  },
+  {
+    "value": "EL SALVADOR"
+  },
+  {
+    "value": "SOMBRERETE"
+  },
+  {
+    "value": "SUSTICACAN"
+  },
+  {
+    "value": "TABASCO"
+  },
+  {
+    "value": "TEPECHITLAN"
+  },
+  {
+    "value": "TEPETONGO"
+  },
+  {
+    "value": "SANTA MARIA DE LA PAZ"
+  },
+  {
+    "value": "VALPARAISO"
+  },
+  {
+    "value": "VILLA DE COS"
+  },
+  {
+    "value": "VILLA GARCIA"
+  },
+  {
+    "value": "VILLA GONZALEZ ORTEGA"
+  },
+  {
+    "value": "ATOLINGA"
+  },
+  {
+    "value": "APULCO"
+  },
+  {
+    "value": "TRINIDAD GARCIA DE LA CADENA"
+  },
+  {
+    "value": "MEZQUITAL DEL ORO"
+  },
+  {
+    "value": "VETAGRANDE"
+  }
+]
