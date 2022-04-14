@@ -7,7 +7,6 @@
     "plugin:import/warnings",
     "plugin:import/typescript",
 
-    "plugin:node/recommended",
     "plugin:promise/recommended",
 
     "plugin:@typescript-eslint/recommended",
@@ -47,7 +46,7 @@
     "import/exports-last": "warn",
     "@typescript-eslint/no-unused-vars": "warn"
   },
-  "plugins": ["import", "@typescript-eslint", "node", "promise"],
+  "plugins": ["import", "@typescript-eslint", "promise"],
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module",
