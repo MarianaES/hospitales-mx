@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.ts",
   "scripts": {
-    "dev": "tsnd --respawn src/server.ts",
+    "dev": "tsnd --respawn -r dotenv/config src/server.ts",
     "start": "npx ts-node src/server.ts",
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|jsx|json|ts|tsx)\"",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
