@@ -3,6 +3,9 @@ import { json, urlencoded } from 'body-parser'
 import morgan from 'morgan'
 import cors from 'cors'
 
+import connectDB from './utils/db'
+import hospitalRouter from './resources/hospital/hospital.router'
+
 const app = express()
 
 // eslint-disable-next-line no-magic-numbers
@@ -19,12 +22,9 @@ app.use(json())
 app.use(urlencoded({ extended: true }))
 app.use(morgan('dev'))
 
-app.get('/data', (req, res) => {
-  res.send({ message: 'hello' })
-})
+app.use('/hospitals', hospitalRouter)
 
-app.post('/data', (req, res) => {
-  res.send(req.body)
-})
-
+// eslint-disable-next-line no-console
 app.listen(port, () => console.log(`👟Server is running on port: ${port}`))
+
+connectDB()
