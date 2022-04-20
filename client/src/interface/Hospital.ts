@@ -13,3 +13,7 @@ export interface Hospital {
   'institution.status': string
   'closing.year': number
 }
+
+export interface HospitalsList {
+  data: Hospital[]
+}
