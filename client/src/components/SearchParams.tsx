@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { ChangeEvent, useEffect, useState } from 'react'
 import { useFormik } from 'formik'
 import { useTheme } from '@mui/material/styles'
 import {
@@ -8,6 +8,7 @@ import {
   CardActions,
   CardContent,
   MenuItem,
+  Pagination,
   TextField,
   Typography,
 } from '@mui/material'
@@ -19,8 +20,10 @@ import STATES from '../lib/constants/STATES.json'
 import UNITS from '../lib/constants/UNITS.json'
 import Hospitals from '../database/short.json'
 import { STATES_MUNICIPALITIES } from '../lib/constants/statesGroups'
+import { getAllHospitals } from '../helpers/APIcalls/hospitals'
 
 import Hospital from './Hospital'
+import { HospitalsList } from '../interface/Hospital'
 
 interface SearchParams {
   address: {
@@ -45,7 +48,9 @@ const validationSchema: yup.SchemaOf<SearchParams> = yup.object().shape({
 })
 
 function SearchParams() {
-  const [hospitals] = useState(Hospitals)
+  const [hospitals, setHospitals] = useState<HospitalsList>()
+  const [page, setPage] = useState(1)
+
   const theme = useTheme()
 
   const formik = useFormik({
@@ -65,6 +70,19 @@ function SearchParams() {
     },
   })
 
+  useEffect(() => {
+    async function getHospitals() {
+      const allHospitals = await getAllHospitals(page)
+      setHospitals(allHospitals)
+    }
+
+    getHospitals()
+  }, [page])
+
+  function handleChange(event: ChangeEvent<unknown>, page: number): void {
+    setPage(page)
+  }
+
   return (
     <Box
       sx={{
@@ -76,7 +94,15 @@ function SearchParams() {
       }}
     >
       <Box sx={{ gridColumn: '1 / 3' }}>
-        {hospitals.map((hospital) => (
+        <Pagination
+          count={hospitals?.totalPages}
+          size="large"
+          page={page || 1}
+          onChange={handleChange}
+          color="primary"
+          sx={{ display: 'flex', justifyContent: 'center', padding: '1rem' }}
+        ></Pagination>
+        {hospitals?.data?.map((hospital) => (
           <Hospital hospital={hospital} key={hospital.code} />
         ))}
       </Box>
@@ -114,27 +140,29 @@ function SearchParams() {
                   </MenuItem>
                 ))}
               </TextField>
-              <TextField
-                id="address-municipality"
-                label="Municipio"
-                {...formik.getFieldProps('address.municipality')}
-                error={
-                  formik.touched?.address?.municipality &&
-                  Boolean(formik.errors?.address?.municipality)
-                }
-                helperText={formik.errors?.address?.municipality}
-                margin="dense"
-                fullWidth
-                select
-              >
-                {STATES_MUNICIPALITIES[formik.values?.address?.state]?.map(
-                  (municipality: string, index: number) => (
-                    <MenuItem value={municipality} key={index}>
-                      {municipality}
-                    </MenuItem>
-                  ),
-                )}
-              </TextField>
+              {formik.values.address.state && (
+                <TextField
+                  id="address-municipality"
+                  label="Municipio"
+                  {...formik.getFieldProps('address.municipality')}
+                  error={
+                    formik.touched?.address?.municipality &&
+                    Boolean(formik.errors?.address?.municipality)
+                  }
+                  helperText={formik.errors?.address?.municipality}
+                  margin="dense"
+                  fullWidth
+                  select
+                >
+                  {STATES_MUNICIPALITIES[formik.values?.address?.state].map(
+                    (municipality: string, index: number) => (
+                      <MenuItem value={municipality} key={index}>
+                        {municipality}
+                      </MenuItem>
+                    ),
+                  )}
+                </TextField>
+              )}
               <TextField
                 id="institution-code"
                 label="Institución"
