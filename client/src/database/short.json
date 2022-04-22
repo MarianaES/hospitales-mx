@@ -1,62 +1,70 @@
 [
   {
     "code": "ASDIF000011",
-    "address.state": "AGUASCALIENTES",
-    "address.state.code": 1,
-    "address.municipality": "AGUASCALIENTES",
-    "address.municipality.code": 1,
-    "institution.code.long": "SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
-    "institution.code": "DIF",
-    "institution.type": "DE ASISTENCIA SOCIAL",
-    "institution.unit": "NO ESPECIFICADO",
-    "institution.unit.code": "99",
-    "institution.name": "DIF AGUASCALIENTES",
-    "institution.status": "EN OPERACION",
-    "closing.year": 2021
+    "address": {
+      "municipality": "AGUASCALIENTES",
+      "state": "AGUASCALIENTES"
+    },
+    "institution": {
+      "code": "DIF",
+      "name": "DIF AGUASCALIENTES",
+      "status": "EN OPERACION",
+      "type": "DE ASISTENCIA SOCIAL",
+      "unit": "NO ESPECIFICADO"
+    },
+    "closing": {
+      "year": 2021
+    }
   },
   {
     "code": "ASDIF000023",
-    "address.state": "AGUASCALIENTES",
-    "address.state.code": 1,
-    "address.municipality": "COSIO",
-    "address.municipality.code": 4,
-    "institution.code.long": "SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
-    "institution.code": "DIF",
-    "institution.type": "DE ASISTENCIA SOCIAL",
-    "institution.unit": "NO ESPECIFICADO",
-    "institution.unit.code": "99",
-    "institution.name": "DIF COSÍO",
-    "institution.status": "EN OPERACION",
-    "closing.year": 2021
+    "address": {
+      "municipality": "COSIO",
+      "state": "AGUASCALIENTES"
+    },
+    "institution": {
+      "code": "DIF",
+      "name": "DIF COSÍO",
+      "status": "EN OPERACION",
+      "type": "DE ASISTENCIA SOCIAL",
+      "unit": "NO ESPECIFICADO"
+    },
+    "closing": {
+      "year": 2021
+    }
   },
   {
     "code": "ASDIF000035",
-    "address.state": "AGUASCALIENTES",
-    "address.state.code": 1,
-    "address.municipality": "RINCON DE ROMOS",
-    "address.municipality.code": 7,
-    "institution.code.long": "SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
-    "institution.code": "DIF",
-    "institution.type": "DE ASISTENCIA SOCIAL",
-    "institution.unit": "NO ESPECIFICADO",
-    "institution.unit.code": "99",
-    "institution.name": "DIF RINCÓN DE ROMOS",
-    "institution.status": "EN OPERACION",
-    "closing.year": 2021
+    "address": {
+      "municipality": "RINCON DE ROMOS",
+      "state": "AGUASCALIENTES"
+    },
+    "institution": {
+      "code": "DIF",
+      "name": "DIF RINCÓN DE ROMOS",
+      "status": "EN OPERACION",
+      "type": "DE ASISTENCIA SOCIAL",
+      "unit": "NO ESPECIFICADO"
+    },
+    "closing": {
+      "year": 2021
+    }
   },
   {
     "code": "ASDIF000040",
-    "address.state": "AGUASCALIENTES",
-    "address.state.code": 1,
-    "address.municipality": "TEPEZALA",
-    "address.municipality.code": 9,
-    "institution.code.long": "SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
-    "institution.code": "DIF",
-    "institution.type": "DE ASISTENCIA SOCIAL",
-    "institution.unit": "NO ESPECIFICADO",
-    "institution.unit.code": "99",
-    "institution.name": "DIF TEPEZALÁ",
-    "institution.status": "EN OPERACION",
-    "closing.year": 2021
+    "address": {
+      "municipality": "TEPEZALA",
+      "state": "AGUASCALIENTES"
+    },
+    "institution": {
+      "code": "DIF",
+      "name": "DIF TEPEZALÁ",
+      "status": "EN OPERACION",
+      "type": "DE ASISTENCIA SOCIAL",
+      "unit": "NO ESPECIFICADO"
+    },
+    "closing": {
+      "year": 2021
+    }
   }
 ]
