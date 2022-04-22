@@ -17,5 +17,8 @@ export interface Hospital {
 }
 
 export interface HospitalsList {
+  totalItems: number
   data: Hospital[]
+  totalPages: number
+  currentPage: number
 }
