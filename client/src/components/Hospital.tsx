@@ -35,28 +35,26 @@ function Hospital(props: Props) {
             sx={{ fontSize: 14, color: theme.palette.text.primary }}
             gutterBottom
           >
-            {hospital?.['address.state'] ?? ''} {bull}{' '}
-            {hospital?.['address.municipality'] ?? ''}
+            {hospital?.address?.state ?? ''} {bull}{' '}
+            {hospital?.address?.municipality ?? ''}
+          </Typography>
+          <Typography
+            style={{ fontWeight: 600, color: theme.palette.primary.light }}
+          >
+            {hospital?.institution.code}
           </Typography>
           <Typography
             variant="h5"
             component="div"
             style={{ fontWeight: 800, color: theme.palette.primary.main }}
-          >
-            {hospital?.['institution.name']}
-          </Typography>
-          <Typography
-            style={{ fontWeight: 600, color: theme.palette.primary.light }}
             gutterBottom
           >
-            {`${hospital?.['institution.code']} - ${hospital?.['institution.code.long']}`}
+            {hospital?.institution?.name}
           </Typography>
-          <Typography variant="body1">
-            {hospital?.['institution.type']}.
-          </Typography>
-          {hospital?.['institution.unit'] !== 'NO ESPECIFICADO' && (
+          <Typography variant="body1">{hospital?.institution.type}.</Typography>
+          {hospital?.institution.unit !== 'NO ESPECIFICADO' && (
             <Typography variant="body2">
-              {hospital?.['institution.unit']}
+              {hospital?.institution.unit}
             </Typography>
           )}
         </CardContent>
