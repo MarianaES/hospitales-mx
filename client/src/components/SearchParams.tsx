@@ -72,7 +72,7 @@ function SearchParams() {
 
   useEffect(() => {
     async function getHospitals() {
-      const allHospitals = await getAllHospitals(page)
+      const allHospitals = await getAllHospitals(page, 20)
       setHospitals(allHospitals)
     }
 
