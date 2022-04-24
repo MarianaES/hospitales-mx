@@ -1,4 +1,5 @@
 import { ChangeEvent, useEffect, useState } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { useFormik } from 'formik'
 import { useTheme } from '@mui/material/styles'
 import {
@@ -18,7 +19,6 @@ import * as yup from 'yup'
 import CODES from '../lib/constants/CODES.json'
 import STATES from '../lib/constants/STATES.json'
 import UNITS from '../lib/constants/UNITS.json'
-import Hospitals from '../database/short.json'
 import { STATES_MUNICIPALITIES } from '../lib/constants/statesGroups'
 import { getAllHospitals } from '../helpers/APIcalls/hospitals'
 
@@ -50,6 +50,7 @@ const validationSchema: yup.SchemaOf<SearchParams> = yup.object().shape({
 function SearchParams() {
   const [hospitals, setHospitals] = useState<HospitalsList>()
   const [page, setPage] = useState(1)
+  const [searchParams, setSearchParams] = useSearchParams()
 
   const theme = useTheme()
 
@@ -65,19 +66,26 @@ function SearchParams() {
       },
     },
     validationSchema,
-    onSubmit(values) {
-      console.log({ values })
+    onSubmit(values, actions) {
+      let params = { ...values.address, ...values.institution }
+
+      setSearchParams(params)
+      actions.setSubmitting(false)
     },
   })
 
   useEffect(() => {
     async function getHospitals() {
-      const allHospitals = await getAllHospitals(page, 20)
+      const allHospitals = await getAllHospitals(
+        page,
+        20,
+        searchParams.toString(),
+      )
       setHospitals(allHospitals)
     }
 
     getHospitals()
-  }, [page])
+  }, [page, searchParams])
 
   function handleChange(event: ChangeEvent<unknown>, page: number): void {
     setPage(page)

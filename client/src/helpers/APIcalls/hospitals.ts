@@ -4,6 +4,7 @@ import { HospitalsList } from '../../interface/Hospital'
 export async function getAllHospitals(
   page?: number,
   limit?: number,
+  searchParams?: string,
 ): Promise<HospitalsList> {
   const fetchOptions: FetchOptions = {
     method: 'GET',
@@ -14,7 +15,7 @@ export async function getAllHospitals(
   }
 
   return await fetch(
-    `http://localhost:5000/hospitals?page=${page}&limit=${limit}`,
+    `http://localhost:5000/hospitals?page=${page}&limit=${limit}&${searchParams}`,
     fetchOptions,
   ).then(async (response) => {
     if (response.ok) {
