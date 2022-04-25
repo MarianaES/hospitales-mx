@@ -3,7 +3,7 @@ import asyncHandler from 'express-async-handler'
 import mongoose from 'mongoose'
 
 // @route GET /hospitals/
-// @desc List of all hospitals
+// @desc List of all hospitals & filter functionality
 // @access Private
 
 export const getAllHospitals = asyncHandler(async (req, res) => {
@@ -28,20 +28,24 @@ export const getAllHospitals = asyncHandler(async (req, res) => {
     query['institution.unit'] = type
   }
 
-  try {
-    const hospitals = await Hospital.find({ ...query })
-      .limit(limit)
-      .skip((page - 1) * limit)
+  await Hospital.find({ ...query })
+    .limit(limit)
+    .skip((page - 1) * limit)
+    .exec((error, result) => {
+      if (error) {
+        return res.status(400).json(error)
+      }
 
-    const count = await Hospital.countDocuments()
-
-    res.status(200).json({
-      totalItems: hospitals.length,
-      data: hospitals,
-      totalPages: Math.ceil(count / limit),
-      currentPage: page,
+      Hospital.countDocuments({ ...query }).exec((countError, count) => {
+        if (error) {
+          return res.status(500).json(countError)
+        }
+        return res.status(200).json({
+          totalItems: count,
+          data: result,
+          totalPages: Math.ceil(count / limit),
+          currentPage: page,
+        })
+      })
     })
-  } catch (err) {
-    console.error(err)
-  }
 })
