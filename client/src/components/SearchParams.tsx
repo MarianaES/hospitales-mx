@@ -78,7 +78,7 @@ function SearchParams() {
     async function getHospitals() {
       const allHospitals = await getAllHospitals(
         page,
-        20,
+        10,
         searchParams.toString(),
       )
       setHospitals(allHospitals)
