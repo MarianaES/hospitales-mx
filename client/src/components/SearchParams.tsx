@@ -1,24 +1,26 @@
 import { ChangeEvent, useEffect, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { useFormik } from 'formik'
-import { useTheme } from '@mui/material/styles'
+import { Theme, useTheme } from '@mui/material/styles'
 import {
   Box,
   Button,
   Card,
   CardActions,
   CardContent,
+  Chip,
   MenuItem,
   Pagination,
   TextField,
   Typography,
 } from '@mui/material'
 import ManageSearchIcon from '@mui/icons-material/ManageSearch'
+import CancelIcon from '@mui/icons-material/Cancel'
 import * as yup from 'yup'
 
-import CODES from '../lib/constants/CODES.json'
 import STATES from '../lib/constants/STATES.json'
-import UNITS from '../lib/constants/UNITS.json'
+import { CODES } from '../lib/constants/codes'
+import { UNITS } from '../lib/constants/units'
 import { STATES_MUNICIPALITIES } from '../lib/constants/statesGroups'
 import { getAllHospitals } from '../helpers/APIcalls/hospitals'
 
@@ -36,13 +38,13 @@ interface SearchParams {
   }
 }
 
-const validationSchema: yup.SchemaOf<SearchParams> = yup.object().shape({
+const validationSchema: yup.SchemaOf<typeof SearchParams> = yup.object().shape({
   address: yup.object({
     state: yup.string().required('Requerido'),
     municipality: yup.string().required('Requerido'),
   }),
   institution: yup.object({
-    code: yup.string().required('Requerido'),
+    code: yup.array().of(yup.string().required('Requerido')),
     type: yup.string(),
   }),
 })
@@ -61,7 +63,7 @@ function SearchParams() {
         municipality: '',
       },
       institution: {
-        code: '',
+        code: [],
         type: '',
       },
     },
@@ -174,7 +176,6 @@ function SearchParams() {
               <TextField
                 id="institution-code"
                 label="Institución"
-                {...formik.getFieldProps('institution.code')}
                 error={
                   formik.touched?.institution?.code &&
                   Boolean(formik.errors?.institution?.code)
@@ -182,11 +183,42 @@ function SearchParams() {
                 helperText={formik.errors?.institution?.code}
                 margin="dense"
                 fullWidth
+                SelectProps={{
+                  autoWidth: true,
+                  multiple: true,
+                  ...formik.getFieldProps('institution.code'),
+                  renderValue: (selected: any) => (
+                    <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 0.5 }}>
+                      {selected?.map((value: string) => (
+                        <Chip
+                          key={value}
+                          label={value}
+                          clickable
+                          deleteIcon={
+                            <CancelIcon
+                              onMouseDown={(event) => event.stopPropagation()}
+                            />
+                          }
+                          onDelete={(event) => {
+                            event.preventDefault(),
+                              formik.setFieldValue(
+                                'institution.code',
+                                formik.values.institution.code.filter(
+                                  (selectedValue: string) =>
+                                    selectedValue !== value,
+                                ),
+                              )
+                          }}
+                        />
+                      ))}
+                    </Box>
+                  ),
+                }}
                 select
               >
-                {CODES.map((code, index) => (
-                  <MenuItem value={code.short} key={index}>
-                    {code.short}
+                {Object.keys(CODES).map((code, index) => (
+                  <MenuItem value={code} key={index}>
+                    {code}
                   </MenuItem>
                 ))}
               </TextField>
@@ -204,8 +236,8 @@ function SearchParams() {
                 select
               >
                 {UNITS.map((unit, index) => (
-                  <MenuItem value={unit.value} key={index}>
-                    {unit.value}
+                  <MenuItem value={unit} key={index}>
+                    {unit}
                   </MenuItem>
                 ))}
               </TextField>
