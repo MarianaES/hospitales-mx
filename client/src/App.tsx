@@ -1,15 +1,14 @@
 import { render } from 'react-dom'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import { CssBaseline } from '@mui/material'
-import { ThemeProvider } from '@mui/material/styles'
+import { ColorModeContextProvider } from './lib/context/ColorModeContext'
 
 import NavBar from './components/NavBar'
 import SearchParams from './components/SearchParams'
-import theme from './theme'
 
 function App() {
   return (
-    <ThemeProvider theme={theme}>
+    <ColorModeContextProvider>
       <CssBaseline>
         <BrowserRouter>
           <NavBar />
@@ -18,7 +17,7 @@ function App() {
           </Routes>
         </BrowserRouter>
       </CssBaseline>
-    </ThemeProvider>
+    </ColorModeContextProvider>
   )
 }
 
