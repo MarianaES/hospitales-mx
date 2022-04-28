@@ -1,3 +1,4 @@
+import { StrictMode } from 'react'
 import { render } from 'react-dom'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import { CssBaseline } from '@mui/material'
@@ -8,16 +9,18 @@ import SearchParams from './components/SearchParams'
 
 function App() {
   return (
-    <ColorModeContextProvider>
-      <CssBaseline>
-        <BrowserRouter>
-          <NavBar />
-          <Routes>
-            <Route path="/hospitals" element={<SearchParams />} />
-          </Routes>
-        </BrowserRouter>
-      </CssBaseline>
-    </ColorModeContextProvider>
+    <StrictMode>
+      <ColorModeContextProvider>
+        <CssBaseline>
+          <BrowserRouter>
+            <NavBar />
+            <Routes>
+              <Route path="/hospitals" element={<SearchParams />} />
+            </Routes>
+          </BrowserRouter>
+        </CssBaseline>
+      </ColorModeContextProvider>
+    </StrictMode>
   )
 }
 
